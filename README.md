@@ -10,11 +10,12 @@ https://fv1090.huibo.tv/GM/H128/chunks.m3u8?wsSecret=a9d74ff3b71857f8d61bdb25f3f
 
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",piala sudirman 1
-https://funn-g1090.huibo.tv/GE/H570/chunks.m3u8?p=47&cf=1745890362&d=&ip=36.73.145.118&e=1745890962&h=11a0c5c5a4cdd492221f5358336f5887
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+https://funn-g1090.huibo.tv/GE/H571/chunks.m3u8?p=47&cf=1745891841&d=&ip=36.73.145.118&e=1745892441&h=a0f45687a3380dfa71ce6047cc65110f
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",piala sudirman 2
-https://funn-g1090.huibo.tv/GE/H571/chunks.m3u8?p=47&cf=1745890415&d=&ip=36.73.145.118&e=1745891015&h=afbd0a84dbffdabf038d65ce3896e181
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+https://funn-g1090.huibo.tv/GE/H571/chunks.m3u8?p=47&cf=1745891975&d=&ip=36.73.145.118&e=1745892575&h=c897f85711ec469cbd9479297a6a6079
 
 
 
