@@ -4,3 +4,21 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",tes live
 https://funn-g1090.huibo.tv/GS1/H3006/chunks.m3u8?p=49&cf=1745889684&d=&ip=36.73.145.118&e=1745890284&h=199b34f2cf106119c2b5a5ae3fab5c7e
+
+
+
+
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",tes live 2
+https://fv1090.huibo.tv/GM/H128/chunks.m3u8?wsSecret=a9d74ff3b71857f8d61bdb25f3fe5f59&wsTime=1745890443
+
+
+
+
+
+
+
+
+
+
+
+
