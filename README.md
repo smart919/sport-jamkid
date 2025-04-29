@@ -9,12 +9,12 @@ https://funn-g1090.huibo.tv/GS1/H3006/chunks.m3u8?p=49&cf=1745889684&d=&ip=36.73
 https://fv1090.huibo.tv/GM/H128/chunks.m3u8?wsSecret=a9d74ff3b71857f8d61bdb25f3fe5f59&wsTime=1745890443
 
 
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",piala sudirman 1
+https://funn-g1090.huibo.tv/GE/H570/chunks.m3u8?p=47&cf=1745890362&d=&ip=36.73.145.118&e=1745890962&h=11a0c5c5a4cdd492221f5358336f5887
 
 
-
-
-
-
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",piala sudirman 2
+https://funn-g1090.huibo.tv/GE/H571/chunks.m3u8?p=47&cf=1745890415&d=&ip=36.73.145.118&e=1745891015&h=afbd0a84dbffdabf038d65ce3896e181
 
 
 
