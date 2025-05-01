@@ -4,6 +4,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
 https://fhlsport121.fhs36f7.xyz/token-JxMtmeSWK%2FGGuDZ5yvY6kGuBlMDb1HvjbSf7l%2FMaEjGm4%2BScHUFdDowtrBVOWk1JBCeIxTNhkA%3D%3Da/v3/get/s3/aHR0cHM6Ly9wbGF5LnJ3YWJ3by5jb20=/rrty/sd-1-4184658.m3u8?txSecret=4b1b9a8f8549a7cb2cd1f06176a0b4a3&txTime=68136005
+
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",Psis vs bali
 https://bf.jabflive.cc/live/322698_hd01.m3u8?txSecret=653d16e7349648f8e23c45e5393fd9be&txTime=68136108
 
