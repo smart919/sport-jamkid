@@ -9,10 +9,9 @@ https://fhlsport121.fhs36f7.xyz/token-JxMtmeSWK%2FGGuDZ5yvY6kGuBlMDb1HvjbSf7l%2F
 https://bf.jabflive.cc/live/322698_hd01.m3u8?txSecret=653d16e7349648f8e23c45e5393fd9be&txTime=68136108
 
 
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo=,"https://i.ibb.co.com/Xph8BGq/live.gif"liga bri 2
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif"liga bri 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://fhlsport121.fhs36f7.xyz/token-IBRyzrORLPWGuWF6wPY6yzqBlMOB1nrjbnP4xaBJEmak4ebIHUFdDowtrBRKX01JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/12p485o6nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_600142.m3u8
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif", TV2 Sport Denmark
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
