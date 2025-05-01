@@ -5,7 +5,7 @@
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",Psis vs bali
-https://bf.jabflive.cc/live/322693_hd01.m3u8?txSecret=aa493a76d198d782b4fc0bf0197c9d87&txTime=68135f6d
+https://bf.jabflive.cc/live/322698_hd01.m3u8?txSecret=653d16e7349648f8e23c45e5393fd9be&txTime=68136108
 
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif", TV2 Sport Denmark
