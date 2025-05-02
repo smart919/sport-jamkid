@@ -1,5 +1,5 @@
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf
-
+EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf
+http://wanicelife.com:8880/D12m3967/74185011/71105
 #https://hotlivezz179026907.akainu.xyz/qdwx6QCMpAVYDrrQaooj8g/Fv2lucGIbhPi2caWYvF5Lg/1745999403000/live/may24/chunklist.m3u8
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf
@@ -24,31 +24,22 @@ https://hotlivezz179026907.akainu.xyz/Il-iluS0kiiUu-npPavkIw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
 
-#EXTINF:-1 tvg-id="" tvg-name="803 Arena Bola" tvg-logo="https://perfecttv.net/logo/arenabolaA.png" group-title="ᴴᴰ",803 Arena Bola
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2680.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDYyMjYwNzEsImlzcyI6IlZSIiwiZXhwIjoxNzQ2MzExNDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNTdjNjc3ZDQtZTY0Yi00ZjZkLWI0MTUtOTMxYzc0NDhkNjQ1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MTA4MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.ynUz4wdeBkknlJGBxBktxpn4IHPAu9WF0oZnI-1sMI8"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"57833c900c4c437f82daf6785eb6ef36":"7bf4663e43cdc277b4ae18219c81d2a1","fb06bb8266fb4a998e7c4e7e90461556":"52242587d8106c4b3ed596c7a56b4e28"}
+#EXTINF:-1 tvg-id="803.astro" ch-number="803" tvg-name="Arena Bola" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png" group-title=">>⚽LIVE SPORTS⚽ <<"  group-logo="https://bosiptv.com/images/inconbos.png", 803 Astro Arena Bola
+https://l01.dp.sooka.my/5099/linear/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="804 Arena Bola 2" tvg-logo="https://perfecttv.net/logo/arenabola2A.png" group-title="ᴴᴰ",804 Arena Bola 2
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2681.ts
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="801.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="ᴴᴰ",Astro Arena
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="802.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png" group-title="ᴴᴰ",Astro Arena 2
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"g3KLRwGavbs3qjbtXylRvQ", "kid":"b/DgQNVE7D8CJDhlmQ8MEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="815.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png" group-title="ᴴᴰ",Astro Badminton
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F8Ga1nClV+aIJBnWkj+tJw", "kid":"cq1uqhkEVAE4SH//o61lEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="816.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBadminton2_2024.png" group-title="ᴴᴰ",Astro Badminton 2
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="Vision+ Overseas",RCTI (V+)
