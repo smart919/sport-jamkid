@@ -20,8 +20,10 @@ https://bf.jabflive.cc/live/322663_hd01.m3u8?txSecret=adec239d3855c63881f3fb2a23
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
 https://fhlsport121.fhs36f7.xyz/token-IRctn%2BOReqKG62wskPY6mz%2FQlMDUhHzjZCevwfdOEDehs7XKHUFdDowtqx1NWk1JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/7n2s7245nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_600439.m3u8
 
-
-
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",livoly
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
+https://fhlsport121.fhs36f7.xyz/token-c0YpmrWXIaWG5DAowfY6njqDlJvb1iHjOSf%2Bw%2FIcFWH647ieHUFdDowtqx1OVU9JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/6sqn3779nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_600367.m3u8
 
 
 
