@@ -1,5 +1,5 @@
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf
-https://aps12.playlist.live-video.net/v1/playlist/CuUFf1PRHN1woBeZ6zdCfslP7mQu9RwL_eEULxELCjFe0HWscDJtKN3M-6hjRtUKO13kphjAjGQ4CtwflwwzRAt928vFBj1GrkXwSw7gBf_s8uN_B1Y7vDIidT5BNgrImaohWW4Sx9UHb5VPxgvUXIFD4PQ5unbDAFdRUvPzU_KS4b8AmoSw2UzQwgfdE57lazoMgxm-k_zMnQJq9J6YsJ6MP34_rSUlyfuxp2Vf4nZDvhwlzJ3eSGneLanauPfqhPCs9hkWhTaVEd2t9g3umdF-nXNAsVSbXhvbfi_aQ3YSShF3uaD1a3GycVCBDbEk3WtGgdD7HGxXPYuvzBSJer7ckl-bAu4_80YpCZ7GPIX4Yg8cdSb3l7XSgu2UU2H9MRqeXKpubMygGfDICLH1v-E-vzh8KeJjeAdRkR_uYs_FhUxJIcWtHGR_ZyyGatr66nJov56iuhp1iuhO9buWevPkZvhzE7FbaK-KYeWZVc1IoY5zc_DW_eNhxSBWPeH_ebl0wUWAf2M0JizG0HMRBWQYSNcC-SSyCpufN8J00e9nyCh1gBEnNQe__4zsazNIxXOislAJGxZqo_uiWpT6Q2pCmYXL_3NGTaxhyWXuJTeErrlqkMQBf2Os6ekXt-3qIiIK5h5Xf6vTIt6gCYqD9AkC7ATGkVena8A6-LI9x6eMGMBgSzaxNWLcJnouItiLSk8j9wy03LS6IUWNuwcBsTZFZmGQvxxIMoq6uzapwXLyrKsXNTHDklhzM-Tjn0gAR1wv_uyywVKt_ial26m6xYLAXVaHLh-lTCerl7ozYg3tj1YR7-iZcKkYPW1JlyYhNEJwFezhw04byh7eafkKimfB0t_BrTtIa9KUCXaS7UKXP0vuJmj4AXAvMhbJMfHL_3irABWVxiAwgRev695n2f1gXdPlSJeobDxmuxqgONGiawOyC49Uq6xxcrJgX1PYrhgCT6ojshP6NYikaPUs8vXsbJy5Gq6MGgzYB5EiFfvpNAztgQ0gASoJdXMtd2VzdC0yMJYM.m3u8
+
 #https://hotlivezz179026907.akainu.xyz/qdwx6QCMpAVYDrrQaooj8g/Fv2lucGIbhPi2caWYvF5Lg/1745999403000/live/may24/chunklist.m3u8
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf
@@ -9,21 +9,21 @@ https://hotlivezz179026907.akainu.xyz/Il-iluS0kiiUu-npPavkIw/Fv2lucGIbhPi2caWYvF
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",liga bri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://fhlsport121.fhs36f7.xyz/token-JxB7n7OTLv6GuWx%2BwPY6yG%2FRlMPW1CDjbyz5xvJLEjGg5OTNHUFdDowtqxFNW0lJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/5q35pso8nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_600230.m3u8
+
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",Psis vs bali
-https://bf.jabflive.cc/live/322663_hd01.m3u8?txSecret=adec239d3855c63881f3fb2a23173ff6&txTime=68148400
+
 
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://fhlsport121.fhs36f7.xyz/token-IRctn%2BOReqKG62wskPY6mz%2FQlMDUhHzjZCevwfdOEDehs7XKHUFdDowtqx1NWk1JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/7n2s7245nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_600439.m3u8
+
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",livoly
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://fhlsport121.fhs36f7.xyz/token-c0YpmrWXIaWG5DAowfY6njqDlJvb1iHjOSf%2Bw%2FIcFWH647ieHUFdDowtqx1OVU9JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/6sqn3779nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_600367.m3u8
+
 
 
 
