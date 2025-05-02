@@ -1,6 +1,6 @@
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/qdwx6QCMpAVYDrrQaooj8g/Fv2lucGIbhPi2caWYvF5Lg/1745999403000/live/may24/chunklist.m3u8
+https://aps12.playlist.live-video.net/v1/playlist/CuUFf1PRHN1woBeZ6zdCfslP7mQu9RwL_eEULxELCjFe0HWscDJtKN3M-6hjRtUKO13kphjAjGQ4CtwflwwzRAt928vFBj1GrkXwSw7gBf_s8uN_B1Y7vDIidT5BNgrImaohWW4Sx9UHb5VPxgvUXIFD4PQ5unbDAFdRUvPzU_KS4b8AmoSw2UzQwgfdE57lazoMgxm-k_zMnQJq9J6YsJ6MP34_rSUlyfuxp2Vf4nZDvhwlzJ3eSGneLanauPfqhPCs9hkWhTaVEd2t9g3umdF-nXNAsVSbXhvbfi_aQ3YSShF3uaD1a3GycVCBDbEk3WtGgdD7HGxXPYuvzBSJer7ckl-bAu4_80YpCZ7GPIX4Yg8cdSb3l7XSgu2UU2H9MRqeXKpubMygGfDICLH1v-E-vzh8KeJjeAdRkR_uYs_FhUxJIcWtHGR_ZyyGatr66nJov56iuhp1iuhO9buWevPkZvhzE7FbaK-KYeWZVc1IoY5zc_DW_eNhxSBWPeH_ebl0wUWAf2M0JizG0HMRBWQYSNcC-SSyCpufN8J00e9nyCh1gBEnNQe__4zsazNIxXOislAJGxZqo_uiWpT6Q2pCmYXL_3NGTaxhyWXuJTeErrlqkMQBf2Os6ekXt-3qIiIK5h5Xf6vTIt6gCYqD9AkC7ATGkVena8A6-LI9x6eMGMBgSzaxNWLcJnouItiLSk8j9wy03LS6IUWNuwcBsTZFZmGQvxxIMoq6uzapwXLyrKsXNTHDklhzM-Tjn0gAR1wv_uyywVKt_ial26m6xYLAXVaHLh-lTCerl7ozYg3tj1YR7-iZcKkYPW1JlyYhNEJwFezhw04byh7eafkKimfB0t_BrTtIa9KUCXaS7UKXP0vuJmj4AXAvMhbJMfHL_3irABWVxiAwgRev695n2f1gXdPlSJeobDxmuxqgONGiawOyC49Uq6xxcrJgX1PYrhgCT6ojshP6NYikaPUs8vXsbJy5Gq6MGgzYB5EiFfvpNAztgQ0gASoJdXMtd2VzdC0yMJYM.m3u8
+#https://hotlivezz179026907.akainu.xyz/qdwx6QCMpAVYDrrQaooj8g/Fv2lucGIbhPi2caWYvF5Lg/1745999403000/live/may24/chunklist.m3u8
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
