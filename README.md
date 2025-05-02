@@ -15,15 +15,11 @@ https://fhlsport121.fhs36f7.xyz/token-JxB7n7OTLv6GuWx%2BwPY6yG%2FRlMPW1CDjbyz5xv
 https://bf.jabflive.cc/live/322663_hd01.m3u8?txSecret=adec239d3855c63881f3fb2a23173ff6&txTime=68148400
 
 
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif"liga bri 2
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif"livoly
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
+https://fhlsport121.fhs36f7.xyz/token-J08vyOKXeP6G7zcrw%2FY6mW7VlMPR0Crja3atl6EbFGKmsrnPHUFdDowtqxNNXkRJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/6sqn3779nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_600367.m3u8
 
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif", TV2 Sport Denmark
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium810/mono.m3u8
 
 
 
