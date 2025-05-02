@@ -9,10 +9,10 @@ https://hotlivezz179026907.akainu.xyz/Il-iluS0kiiUu-npPavkIw/Fv2lucGIbhPi2caWYvF
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",liga bri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-
+https://fhlsport121.fhs36f7.xyz/token-JxB7n7OTLv6GuWx%2BwPY6yG%2FRlMPW1CDjbyz5xvJLEjGg5OTNHUFdDowtqxFNW0lJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/5q35pso8nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_600230.m3u8
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",Psis vs bali
-
+https://bf.jabflive.cc/live/322663_hd01.m3u8?txSecret=adec239d3855c63881f3fb2a23173ff6&txTime=68148400
 
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif"liga bri 2
