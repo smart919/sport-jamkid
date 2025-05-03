@@ -1,4 +1,5 @@
 EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://yesimes.oknirvana.club:8880/kg14m0413/csbsdaf2343/71105
 #https://hotlivezz179026907.akainu.xyz/qdwx6QCMpAVYDrrQaooj8g/Fv2lucGIbhPi2caWYvF5Lg/1745999403000/live/may24/chunklist.m3u8
 
@@ -34,7 +35,7 @@ https://hotlivezz179026907.akainu.xyz/Il-iluS0kiiUu-npPavkIw/Fv2lucGIbhPi2caWYvF
 
 
 
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title="🇮🇩 Liga Bri",LIVE ONLY
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title=">>⚽LIVE SPORTS⚽ <<",LIVE ONLY
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=3fc2384004df43e6b685b684e1944df7:ca36136eda66d731efdf5fe521106137
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
