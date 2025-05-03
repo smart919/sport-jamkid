@@ -62,7 +62,10 @@ https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
 
-
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title=">>⚽LIVE SPORTS⚽ <<",Star Sports Select 1 HD
+http://watchindia.net:8880/live/36830/23757/1070.ts
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title=">>⚽LIVE SPORTS⚽ <<",Star Sports Select 2 HD
+http://watchindia.net:8880/live/36830/23757/1071.ts
 
 
 
