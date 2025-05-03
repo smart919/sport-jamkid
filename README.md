@@ -27,7 +27,7 @@ https://v4-566c73c4fe64bf5e38f5b0eb26829abf.livehwc3.cn/pull-new.ylsyz1.com/live
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",liga bri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://fhlsport121.fhs36f7.xyz/token-J0IqnrScKfeG5WIokvY6zz%2FWlMCG0ynjbiKil6VLFmH2sLCbHUFdDowuqhdNX0RJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/o7n493p3nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_600322.m3u8
+
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",livoly
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
