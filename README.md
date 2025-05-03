@@ -67,7 +67,8 @@ http://watchindia.net:8880/live/36830/23757/1070.ts
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title=">>⚽LIVE SPORTS⚽ <<",Star Sports Select 2 HD
 http://watchindia.net:8880/live/36830/23757/1071.ts
 
-
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title=">>⚽LIVE SPORTS⚽ <<",Sky Sports Premier League
+http://watchindia.net:8880/live/36830/23757/2092.ts
 
 
 ===================================================================================================================================
