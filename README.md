@@ -5,15 +5,15 @@ http://yesimes.oknirvana.club:8880/kg14m0413/csbsdaf2343/71105
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",PIALA SUDIRMAN 
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/qdwx6QCMpAVYDrrQaooj8g/Fv2lucGIbhPi2caWYvF5Lg/1745999403000/live/may24/chunklist.m3u8
+#https://hotlivezz179026907.akainu.xyz/qdwx6QCMpAVYDrrQaooj8g/Fv2lucGIbhPi2caWYvF5Lg/1745999403000/live/may24/chunklist.m3u8
  
  
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",PIALA SUDIRMAN 2
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/Il-iluS0kiiUu-npPavkIw/Fv2lucGIbhPi2caWYvF5Lg/1745999403001/live/may25/chunklist.m3u8
+#https://hotlivezz179026907.akainu.xyz/Il-iluS0kiiUu-npPavkIw/Fv2lucGIbhPi2caWYvF5Lg/1745999403001/live/may25/chunklist.m3u8
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",oxford
-https://bf.jabflive.cc/live/322665_hd01.m3u8?txSecret=7067fcde72f836822bbdd15b28203815&txTime=681601b5
+
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",livoly
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
@@ -21,7 +21,6 @@ https://bf.jabflive.cc/live/322665_hd01.m3u8?txSecret=7067fcde72f836822bbdd15b28
 
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",piala sudirman
-https://v4-566c73c4fe64bf5e38f5b0eb26829abf.livehwc3.cn/pull-new.ylsyz1.com/live/8130858.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=7d8042a535e42a831ca2add972fa3e7e&auth_info=FUaqbXi%2BKCcJdyv7Y5VwG3bl1XY5z%2BfbWIkrfY02wfQ%3D.784773334c374572616235796e676c47
 
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",liga bri
