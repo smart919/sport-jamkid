@@ -1,4 +1,4 @@
-EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://yesimes.oknirvana.club:8880/kg14m0413/csbsdaf2343/71105
 
@@ -20,8 +20,8 @@ https://hotlivezz179026907.akainu.xyz/Il-iluS0kiiUu-npPavkIw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
 
 
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",Psis vs bali
-
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",piala sudirman
+https://v4-566c73c4fe64bf5e38f5b0eb26829abf.livehwc3.cn/pull-new.ylsyz1.com/live/8130858.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=7d8042a535e42a831ca2add972fa3e7e&auth_info=FUaqbXi%2BKCcJdyv7Y5VwG3bl1XY5z%2BfbWIkrfY02wfQ%3D.784773334c374572616235796e676c47
 
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf
