@@ -36,10 +36,22 @@ https://fhlsport121.fhs36f7.xyz/token-J0IqnrScKfeG5WIokvY6zz%2FWlMCG0ynjbiKil6VL
 
 
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title=">>⚽LIVE SPORTS⚽ <<",LIGA BRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="807 Premier League 2 (A)" tvg-logo="https://get.perfecttv.net/logo/premierleague2A.png" group-title="⚽︎ SPORTS",807 Premier League 2 (A)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2683.ts
+#EXTINF:-1 tvg-id="" tvg-name="806 Premier League (A)" tvg-logo="https://get.perfecttv.net/logo/premierleagueA.png" group-title="⚽︎ SPORTS",806 Premier League (A)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2682.ts
+#EXTINF:-1 tvg-id="" tvg-name="804 Arena Bola 2" tvg-logo="https://get.perfecttv.net/logo/arenabola2A.png" group-title="⚽︎ SPORTS",804 Arena Bola 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2681.ts
+#EXTINF:-1 tvg-id="" tvg-name="803 Arena Bola" tvg-logo="https://get.perfecttv.net/logo/arenabolaA.png" group-title="⚽︎ SPORTS",803 Arena Bola
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2680.ts
 
 
 
