@@ -24,10 +24,10 @@ https://hotlivezz179026907.akainu.xyz/Il-iluS0kiiUu-npPavkIw/Fv2lucGIbhPi2caWYvF
 https://v4-566c73c4fe64bf5e38f5b0eb26829abf.livehwc3.cn/pull-new.ylsyz1.com/live/8130858.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=7d8042a535e42a831ca2add972fa3e7e&auth_info=FUaqbXi%2BKCcJdyv7Y5VwG3bl1XY5z%2BfbWIkrfY02wfQ%3D.784773334c374572616235796e676c47
 
 
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",liga bri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-
+https://fhlsport121.fhs36f7.xyz/token-J0IqnrScKfeG5WIokvY6zz%2FWlMCG0ynjbiKil6VLFmH2sLCbHUFdDowuqhdNX0RJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/o7n493p3nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_600322.m3u8
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",livoly
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
@@ -36,7 +36,7 @@ https://v4-566c73c4fe64bf5e38f5b0eb26829abf.livehwc3.cn/pull-new.ylsyz1.com/live
 
 
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title=">>⚽LIVE SPORTS⚽ <<",LIGA BRI
-https://bf.jabflive.cc/live/322663_hd01.m3u8?txSecret=557d9fc3d835d2816d7c1c502263ddd6&txTime=6815d58d
+https://bf.jabflive.cc/live/5004438_hd01.m3u8?txSecret=f267e8c4096ad59bf4d3d71b3e5c0f75&txTime=6815da42
 
 
 ===================================================================================================================================
