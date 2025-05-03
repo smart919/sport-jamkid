@@ -18,7 +18,7 @@ https://hotlivezz179026907.akainu.xyz/Il-iluS0kiiUu-npPavkIw/Fv2lucGIbhPi2caWYvF
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",livoly
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://fhlsport121.fhs36f7.xyz/token-dBd%2FyuKXIfKG6zMhlvY6n2KKlJva1yvjaST7xKgaFGSh5LeXHUFdDowuqhdAVEhJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/562o3sn0nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_600779.m3u8
+
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",piala sudirman
 https://v4-566c73c4fe64bf5e38f5b0eb26829abf.livehwc3.cn/pull-new.ylsyz1.com/live/8130858.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=7d8042a535e42a831ca2add972fa3e7e&auth_info=FUaqbXi%2BKCcJdyv7Y5VwG3bl1XY5z%2BfbWIkrfY02wfQ%3D.784773334c374572616235796e676c47
