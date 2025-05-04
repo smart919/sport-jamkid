@@ -18,7 +18,7 @@ http://yesimes.oknirvana.club:8880/kg14m0413/csbsdaf2343/71105
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",livoly
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-
+https://fhlsport121.fhs36f7.xyz/token-dERzz%2BSWKaKG6mUpxvY6yz7SlMPXgivjZCKpz6lMRDX04bSWHUFdDowvqRRBW0hJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/on3or3p1nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_600932.m3u8
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",piala sudirman
 
