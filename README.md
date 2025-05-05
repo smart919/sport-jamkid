@@ -38,6 +38,13 @@ https://fhlsport121.fhs36f7.xyz/token-dERzz%2BSWKaKG6mUpxvY6yz7SlMPXgivjZCKpz6lM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitdBUMjz82wNeGUGgmBJMou2Vjak3T6LAvNHKCCpxhq1Vvj0-FeqJj2GXK2JtrWpn3J4fGCrP9gzlvfYX8OEpJ3eJ27AoRPpC9GD8ZOPmdQE2q_8pDo_RVJMpw9ZXAi86eLvhbndSZAm4LiQqKaqxL-_Pc7XHdKZ7TOiQ7T07EEST5_R8rS9zlSFUlpDX1/s700/PREMIER%20LEAGUE.png" group-title=">>⚽LIVE SPORTS⚽ <<",PREMIER LEAGUE 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-supersport-1.png" group-title=">>⚽LIVE SPORTS⚽ <<",Astro SuperSport 1
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
