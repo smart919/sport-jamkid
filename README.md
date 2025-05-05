@@ -234,6 +234,37 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
+=========================================================================================================
+#EXTINF:-1 tvg-id="" tvg-name="True Premier Football 1 FHD VIP SPORTS" tvg-logo="" group-title="Events",True Premier Football 1 FHD VIP SPORTS
+http://rrrrrrrr.vvvvvvvvvv.eeeeeeeeee.tttttttttt.iiiiiiiiii.nnnnnnnnnnn.eeee.streamtv.to:8080/Ytzw2oI9BE/aAJPgFZf8C/117331
+#EXTINF:-1 tvg-id="" tvg-name="True Premier Football 2 FHD VIP SPORTS" tvg-logo="" group-title="Events",True Premier Football 2 FHD VIP SPORTS
+http://rrrrrrrr.vvvvvvvvvv.eeeeeeeeee.tttttttttt.iiiiiiiiii.nnnnnnnnnnn.eeee.streamtv.to:8080/Ytzw2oI9BE/aAJPgFZf8C/117330
+#EXTINF:-1 tvg-id="" tvg-name="True Premier Football 3 FHD VIP SPORTS" tvg-logo="" group-title="Events",True Premier Football 3 FHD VIP SPORTS
+http://rrrrrrrr.vvvvvvvvvv.eeeeeeeeee.tttttttttt.iiiiiiiiii.nnnnnnnnnnn.eeee.streamtv.to:8080/Ytzw2oI9BE/aAJPgFZf8C/117329
+#EXTINF:-1 tvg-id="" tvg-name="True Premier Football 4 FHD VIP SPORTS" tvg-logo="" group-title="Events",True Premier Football 4 FHD VIP SPORTS
+http://rrrrrrrr.vvvvvvvvvv.eeeeeeeeee.tttttttttt.iiiiiiiiii.nnnnnnnnnnn.eeee.streamtv.to:8080/Ytzw2oI9BE/aAJPgFZf8C/117328
+#EXTINF:-1 tvg-id="" tvg-name="True Premier Football 5 FHD VIP SPORTS" tvg-logo="" group-title="Events",True Premier Football 5 FHD VIP SPORTS
+http://rrrrrrrr.vvvvvvvvvv.eeeeeeeeee.tttttttttt.iiiiiiiiii.nnnnnnnnnnn.eeee.streamtv.to:8080/Ytzw2oI9BE/aAJPgFZf8C/117327
+#EXTINF:-1 tvg-id="" tvg-name="True Premier Football 6 FHD VIP SPORTS" tvg-logo="" group-title="Events",True Premier Football 6 FHD VIP SPORTS
+http://rrrrrrrr.vvvvvvvvvv.eeeeeeeeee.tttttttttt.iiiiiiiiii.nnnnnnnnnnn.eeee.streamtv.to:8080/Ytzw2oI9BE/aAJPgFZf8C/117326
+#EXTINF:-1 tvg-id="" tvg-name="True Premier Football 7 FHD VIP SPORTS" tvg-logo="" group-title="Events",True Premier Football 7 FHD VIP SPORTS
+http://rrrrrrrr.vvvvvvvvvv.eeeeeeeeee.tttttttttt.iiiiiiiiii.nnnnnnnnnnn.eeee.streamtv.to:8080/Ytzw2oI9BE/aAJPgFZf8C/117325
+#EXTINF:-1 tvg-id="" tvg-name="True Premier Football 8 FHD VIP SPORTS" tvg-logo="" group-title="Events",True Premier Football 8 FHD VIP SPORTS
+http://rrrrrrrr.vvvvvvvvvv.eeeeeeeeee.tttttttttt.iiiiiiiiii.nnnnnnnnnnn.eeee.streamtv.to:8080/Ytzw2oI9BE/aAJPgFZf8C/117324
+
+#EXTINF:-1 tvg-id="" tvg-name="Peacock Live | WWE Network VIP SPORTS" tvg-logo="" group-title="Events",Peacock Live | WWE Network VIP SPORTS
+http://rrrrrrrr.vvvvvvvvvv.eeeeeeeeee.tttttttttt.iiiiiiiiii.nnnnnnnnnnn.eeee.streamtv.to:8080/Ytzw2oI9BE/aAJPgFZf8C/112362
+#EXTINF:-1 tvg-id="" tvg-name="EPL 01 VIP SPORTS" tvg-logo="" group-title="Events",EPL 01 VIP SPORTS
+http://rrrrrrrr.vvvvvvvvvv.eeeeeeeeee.tttttttttt.iiiiiiiiii.nnnnnnnnnnn.eeee.streamtv.to:8080/Ytzw2oI9BE/aAJPgFZf8C/112438
+
+#EXTINF:-1 tvg-id="" tvg-name="Peacock Live | Premier League VIP SPORTS" tvg-logo="" group-title="Events",Peacock Live | Premier League VIP SPORTS
+http://rrrrrrrr.vvvvvvvvvv.eeeeeeeeee.tttttttttt.iiiiiiiiii.nnnnnnnnnnn.eeee.streamtv.to:8080/Ytzw2oI9BE/aAJPgFZf8C/112378
+#EXTINF:-1 tvg-id="" tvg-name="Peacock | Event 1 VIP SPORTS" tvg-logo="" group-title="Events",Peacock | Event 1 VIP SPORTS
+http://rrrrrrrr.vvvvvvvvvv.eeeeeeeeee.tttttttttt.iiiiiiiiii.nnnnnnnnnnn.eeee.streamtv.to:8080/Ytzw2oI9BE/aAJPgFZf8C/112377
+#EXTINF:-1 tvg-id="" tvg-name="Peacock | Event 2 VIP SPORTS" tvg-logo="" group-title="Events",Peacock | Event 2 VIP SPORTS
+http://rrrrrrrr.vvvvvvvvvv.eeeeeeeeee.tttttttttt.iiiiiiiiii.nnnnnnnnnnn.eeee.streamtv.to:8080/Ytzw2oI9BE/aAJPgFZf8C/112376
+#EXTINF:-1 tvg-id="" tvg-name="Peacock | Event 3 VIP SPORTS" tvg-logo="" group-title="Events",Peacock | Event 3 VIP SPORTS
+http://rrrrrrrr.vvvvvvvvvv.eeeeeeeeee.tttttttttt.iiiiiiiiii.nnnnnnnnnnn.eeee.streamtv.to:8080/Ytzw2oI9BE/aAJPgFZf8C/112375
 
 
 
