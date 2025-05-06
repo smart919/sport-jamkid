@@ -11,9 +11,10 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",LIVOLY
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/475.ts
 
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",livoly
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",ltaipe open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
+https://fhlsport121.fhs36f7.xyz/token-JRN7k%2BKWIf%2BG7WcgwvY6kGvVlMDb0S3jbCD4lKZNE2Kn5beWHUFdDowprxBKVEpJBCeIxTNhkA%3D%3Da/cfall/s2/v3b/519ros72nUE0pUZ6Yl9fnKMyL2EhYaW1oKAjo3W0YzAioD%3D%3D/stream/32/chunks.m3u8
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",piala sudirman
 
