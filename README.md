@@ -291,52 +291,52 @@ http://202.147.193.244/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="Vision+ Overseas",Inews (V+)
 http://202.147.193.244/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-m.png" group-title="Vision+ Overseas",Sindonews (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-m.png" group-title="Vision+ ",Sindonews (V+)
 http://202.147.193.244/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png" group-title="Vision+ Overseas",Metro TV (V+) 
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png" group-title="Vision+ ",Metro TV (V+) 
 http://202.147.193.244/live/eds/Metro-TV2/sa_dash/Metro-TV2.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png" group-title="Vision+ Overseas",TVONE (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png" group-title="Vision+ ",TVONE (V+)
 http://202.147.193.244/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png" group-title="Vision+ Overseas",Kompas TV (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png" group-title="Vision+ ",Kompas TV (V+)
 http://202.147.193.244/live/eds/KompasTV/sa_dash/KompasTV.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/592/592-LOGO-m.png" group-title="Vision+ Overseas",BTV (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/592/592-LOGO-m.png" group-title="Vision+ ",BTV (V+)
 http://202.147.193.244/live/eds/BeritaSatu/sa_dash/BeritaSatu.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/594/594-LOGO-m.png" group-title="Vision+ Overseas",Sea Today (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/594/594-LOGO-m.png" group-title="Vision+ ",Sea Today (V+)
 http://202.147.193.244/live/eds/SEA-Channel/sa_dash/SEA-Channel.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png" group-title="Vision+ Overseas",Trans7 (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png" group-title="Vision+ ",Trans7 (V+)
 http://202.147.193.244/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png" group-title="Vision+ Overseas",Transtv (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png" group-title="Vision+ ",Transtv (V+)
 http://202.147.193.244/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-m.png" group-title="Vision+ Overseas",MDTV (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-m.png" group-title="Vision+ ",MDTV (V+)
 http://202.147.193.244/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png" group-title="Vision+ Overseas",Antv (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png" group-title="Vision+ ",Antv (V+)
 http://202.147.193.244/live/eds/ANTV/sa_dash/ANTV.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png" group-title="Vision+ Overseas",RTV (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png" group-title="Vision+ ",RTV (V+)
 http://202.147.193.244/live/eds/RTV/sa_dash/RTV.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png" group-title="Vision+ Overseas",TVRI (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png" group-title="Vision+ ",TVRI (V+)
 http://202.147.193.244/live/eds/PemersatuBangsa/sa_dash/PemersatuBangsa.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/598/598-LOGO-m.png" group-title="Vision+ Overseas",Jaktv (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/598/598-LOGO-m.png" group-title="Vision+ ",Jaktv (V+)
 http://202.147.193.244/live/eds/JakTV/sa_dash/JakTV.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/700/700-LOGO-m.png" group-title="Vision+ Overseas",Bali TV (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/700/700-LOGO-m.png" group-title="Vision+ ",Bali TV (V+)
 http://202.147.193.244/live/eds/BaliTV/sa_dash/BaliTV.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/600/600-LOGO-m.png" group-title="Vision+ Overseas",Bandung TV (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/600/600-LOGO-m.png" group-title="Vision+ ",Bandung TV (V+)
 http://202.147.193.244/live/eds/BandungTV/sa_dash/BandungTV.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/595/595-LOGO-m.png" group-title="Vision+ Overseas",Daai TV (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/595/595-LOGO-m.png" group-title="Vision+ ",Daai TV (V+)
 http://202.147.193.244/live/eds/DAAITV/sa_dash/DAAITV.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/659/659-LOGO-m.png" group-title="Vision+ Overseas",IDX (V+)
@@ -521,31 +521,31 @@ http://202.147.193.244/live/eds/Arirang/sa_dash/Arirang.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/683/683-LOGO-m.png" group-title="Vision+ Overseas",Dragon TV (V+)
 http://202.147.193.244/live/eds/ShanghaiDragonTV/sa_dash/ShanghaiDragonTV.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/853/853-LOGO-m.png" group-title="Vision+ Overseas",Hunan TV (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/853/853-LOGO-m.png" group-title="Vision+ ",Hunan TV (V+)
 http://202.147.193.244/live/eds/HunanTV/sa_dash/HunanTV.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/685/685-LOGO-m.png" group-title="Vision+ Overseas",Jiangsu TV (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/685/685-LOGO-m.png" group-title="Vision+ ",Jiangsu TV (V+)
 http://202.147.193.244/live/eds/JiangsuTV/sa_dash/JiangsuTV.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png" group-title="Vision+ Overseas",Moonbug (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png" group-title="Vision+ ",Moonbug (V+)
 http://202.147.193.244/live/eds/Moonbug/sa_dash/Moonbug.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/624/624-LOGO-m.png" group-title="Vision+ Overseas",Cbeebies (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/624/624-LOGO-m.png" group-title="Vision+ ",Cbeebies (V+)
 http://202.147.193.244/live/eds/Cbeebies/sa_dash/Cbeebies.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/630/630-LOGO-m.png" group-title="Vision+ Overseas",Dreamworks (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/630/630-LOGO-m.png" group-title="Vision+ ",Dreamworks (V+)
 http://202.147.193.244/live/eds/Dreamwork-HD/sa_dash/Dreamwork-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-m.png" group-title="Vision+ Overseas",Kids TV (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-m.png" group-title="Vision+ ",Kids TV (V+)
 http://202.147.193.244/live/eds/KidsChannel/sa_dash/KidsChannel.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/627/627-LOGO-m.png" group-title="Vision+ Overseas",Nick (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/627/627-LOGO-m.png" group-title="Vision+ ",Nick (V+)
 http://202.147.193.244/live/eds/Nickelodeon/sa_dash/Nickelodeon.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/147/75147-LOGO-m.png" group-title="Vision+ Overseas",Nick Jr (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/147/75147-LOGO-m.png" group-title="Vision+ ",Nick Jr (V+)
 http://202.147.193.244/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/626/626-LOGO-m.png" group-title="Vision+ Overseas",Zoo Moo (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/626/626-LOGO-m.png" group-title="Vision+ ",Zoo Moo (V+)
 http://202.147.193.244/live/eds/Zoomoo/sa_dash/Zoomoo.mpd
  
 
