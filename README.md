@@ -22,7 +22,6 @@ https://zozotv.xyz:443/live/mdfazrin86/ztv728269/475.ts
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
 https://fhlsport121.fhs36f7.xyz/token-cRV%2FyeWWKPCGvzd7l%2FY6zW%2BElMDXhCDjbnOuk6VJFzPw4%2BTLHUFdDowrpBVJXExJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/3po17197nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_601256.m3u8
 
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",piala sudirman
 
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",liga bri
