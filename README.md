@@ -15,12 +15,11 @@ https://hotlivezz179026907.akainu.xyz/Il-iluS0kiiUu-npPavkIw/Fv2lucGIbhPi2caWYvF
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",LIVOLY
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/475.ts
 
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bri liga 
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",LIVOLY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://fhlsport121.fhs36f7.xyz/token-cRV%2FyeWWKPCGvzd7l%2FY6zW%2BElMDXhCDjbnOuk6VJFzPw4%2BTLHUFdDowrpBVJXExJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/3po17197nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_601256.m3u8
+https://fhlsport121.fhs36f7.xyz/token-LRAunrLAfKSG5GIukfY6yG%2FQlJrS0yjjayL%2FwqRLEjH247ebHUFdDowkqx1NXUpJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/458p3353nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_601661.m3u8
 
 
 
@@ -32,7 +31,7 @@ https://fhlsport121.fhs36f7.xyz/token-cRV%2FyeWWKPCGvzd7l%2FY6zW%2BElMDXhCDjbnOu
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",livoly
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://fhlsport121.fhs36f7.xyz/token-Ixd%2FnLTCLvSGvmB5w%2FY6yj%2BClMPRh3jjPSatxalMF2L7tbGdHUFdDowqpR1JVElJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/6r66n4qrnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_601302.m3u8
+
 
 
 
