@@ -33,11 +33,10 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",LIVOLY
 
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",LIVOLY
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",LIGA BRI 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://fhlsport121.fhs36f7.xyz/token-LRAunrLAfKSG5GIukfY6yG%2FQlJrS0yjjayL%2FwqRLEjH247ebHUFdDowkqx1NXUpJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/458p3353nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_601661.m3u8
-
+https://fhlsport121.fhs36f7.xyz/token-LRR%2BmLLBIaCGu20qkvY6yG7SlMDVgnvjPiWpzqNGQWXzt%2BWaHUFdDowlqRZAWEVJBCeIxTNhkA%3D%3Da/v3/get/s3/aHR0cHM6Ly9wbGF5LnJ3YWJ3by5jb20=/rrty/sd-1-4184674.m3u8?txSecret=1a69b6d468ea530883159b2c1ff4d99f&txTime=68205DCE
 
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",liga bri
