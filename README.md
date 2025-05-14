@@ -282,6 +282,53 @@ http://rrrrrrrr.vvvvvvvvvv.eeeeeeeeee.tttttttttt.iiiiiiiiii.nnnnnnnnnnn.eeee.str
 http://rrrrrrrr.vvvvvvvvvv.eeeeeeeeee.tttttttttt.iiiiiiiiii.nnnnnnnnnnn.eeee.streamtv.to:8080/Ytzw2oI9BE/aAJPgFZf8C/112375
 
 ====================================================================================================
+#EXTINF:-1 tvg-id="1473" tvg-name="FOX CRICKET 4K*" tvg-logo="https://i.ibb.co/KF0mXfh/DOCTOR-STRANGE-FULL.png" group-title="SPORTS CHANNEL", FOX CRICKET 4K*
+https://jiiobylelo2.vercel.app/api/stream?channel=1473
+
+#EXTINF:-1 tvg-id="1474" tvg-name="ASTRO CRICKET 4K*" tvg-logo="https://i.ibb.co/KF0mXfh/DOCTOR-STRANGE-FULL.png" group-title="SPORTS CHANNEL", ASTRO CRICKET 4K*
+https://jiiobylelo2.vercel.app/api/stream?channel=1474
+
+#EXTINF:-1 tvg-id="1475" tvg-name="SUPERSPORT CRICKET 4K*" tvg-logo="https://i.ibb.co/KF0mXfh/DOCTOR-STRANGE-FULL.png" group-title="SPORTS CHANNEL", SUPERSPORT CRICKET 4K*
+https://jiiobylelo2.vercel.app/api/stream?channel=1475
+
+#EXTINF:-1 tvg-id="1476" tvg-name="A SPORTS 4K*" tvg-logo="https://i.ibb.co/KF0mXfh/DOCTOR-STRANGE-FULL.png" group-title="SPORTS CHANNEL", A SPORTS 4K*
+https://jiiobylelo2.vercel.app/api/stream?channel=1476
+
+#EXTINF:-1 tvg-id="1477" tvg-name="SONY TEN 1 4K*" tvg-logo="https://i.ibb.co/KF0mXfh/DOCTOR-STRANGE-FULL.png" group-title="SPORTS CHANNEL", SONY TEN 1 4K*
+https://jiiobylelo2.vercel.app/api/stream?channel=1477
+
+#EXTINF:-1 tvg-id="1478" tvg-name="SONY TEN 2 4K*" tvg-logo="https://i.ibb.co/KF0mXfh/DOCTOR-STRANGE-FULL.png" group-title="SPORTS CHANNEL", SONY TEN 2 4K*
+https://jiiobylelo2.vercel.app/api/stream?channel=1478
+
+#EXTINF:-1 tvg-id="1479" tvg-name="SONY TEN 3 4K*" tvg-logo="https://i.ibb.co/KF0mXfh/DOCTOR-STRANGE-FULL.png" group-title="SPORTS CHANNEL", SONY TEN 3 4K*
+https://jiiobylelo2.vercel.app/api/stream?channel=1479
+
+#EXTINF:-1 tvg-id="1480" tvg-name="SONY TEN 4 4K*" tvg-logo="https://i.ibb.co/KF0mXfh/DOCTOR-STRANGE-FULL.png" group-title="SPORTS CHANNEL", SONY TEN 4 4K*
+https://jiiobylelo2.vercel.app/api/stream?channel=1480
+
+#EXTINF:-1 tvg-id="1481" tvg-name="SONY TEN 5 4K*" tvg-logo="https://i.ibb.co/KF0mXfh/DOCTOR-STRANGE-FULL.png" group-title="SPORTS CHANNEL", SONY TEN 5 4K*
+https://jiiobylelo2.vercel.app/api/stream?channel=1481
+
+#EXTINF:-1 tvg-id="1482" tvg-name="T SPORTS HD" tvg-logo="https://i.ibb.co/KF0mXfh/DOCTOR-STRANGE-FULL.png" group-title="SPORTS CHANNEL", T SPORTS HD
+https://jiiobylelo2.vercel.app/api/stream?channel=1482
+
+#EXTINF:-1 tvg-id="1483" tvg-name="SPORTS 18 4K*" tvg-logo="https://i.ibb.co/KF0mXfh/DOCTOR-STRANGE-FULL.png" group-title="SPORTS CHANNEL", SPORTS 18 4K*
+https://jiiobylelo2.vercel.app/api/stream?channel=1483
+
+#EXTINF:-1 tvg-id="1484" tvg-name="STAR SPORTS SELECT 1 4K*" tvg-logo="https://i.ibb.co/KF0mXfh/DOCTOR-STRANGE-FULL.png" group-title="SPORTS CHANNEL", STAR SPORTS SELECT 1 4K*
+https://jiiobylelo2.vercel.app/api/stream?channel=1484
+
+#EXTINF:-1 tvg-id="1485" tvg-name="STAR SPORTS SELECT 2 4K*" tvg-logo="https://i.ibb.co/KF0mXfh/DOCTOR-STRANGE-FULL.png" group-title="SPORTS CHANNEL", STAR SPORTS SELECT 2 4K*
+https://jiiobylelo2.vercel.app/api/stream?channel=1485
+
+#EXTINF:-1 tvg-id="1486" tvg-name="TEN SPORTS" tvg-logo="https://i.ibb.co/KF0mXfh/DOCTOR-STRANGE-FULL.png" group-title="SPORTS CHANNEL", TEN SPORTS
+https://jiiobylelo2.vercel.app/api/stream?channel=1486
+
+#EXTINF:-1 tvg-id="1487" tvg-name="PTV SPORTS*" tvg-logo="https://i.ibb.co/KF0mXfh/DOCTOR-STRANGE-FULL.png" group-title="SPORTS CHANNEL", PTV SPORTS*
+https://jiiobylelo2.vercel.app/api/stream?channel=1487
+
+
+
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv.m3u8
 
