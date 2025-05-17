@@ -45,6 +45,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/indosiar.m3u8
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",liga bri 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-origin=https://morgan.h3eaulperhapsfuzkhurried.shop
 #EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
 https://fhlsport121.fhs36f7.xyz/token-JE94ybGWLPKGvGwvwfY6zWjRlMDQ0HvjbySuzqUdGDWg5eHLHUFdDo0oqxZMXElJBD2LwDVikfx5a/cfall/s2001/v3b/9015p3n2nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_602531.m3u8
 
