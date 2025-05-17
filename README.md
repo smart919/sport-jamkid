@@ -33,10 +33,10 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",LIVOLY
 
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",LIGA BRI 2
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",LIGA BRI 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://fhlsport121.fhs36f7.xyz/token-dkB6m7DBfPCG7zMhyvY6nT%2FQlJrRh3jjPSGplKBNFGT1srHIHUFdDo0oqxRJVERJBD2LwDVikfx5a/cfall/s2001/v3b/9015p3n2nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_602531.m3u8
+#EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
+https://fhlsport121.fhs36f7.xyz/token-JE94ybGWLPKGvGwvwfY6zWjRlMDQ0HvjbySuzqUdGDWg5eHLHUFdDo0oqxZMXElJBD2LwDVikfx5a/cfall/s2001/v3b/9015p3n2nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_602531.m3u8
 
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",liga bri
