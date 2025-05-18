@@ -36,7 +36,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",LIGA BRI 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
-https://fhlsport121.fhs36f7.xyz/token-IEZ6nLGUeqKGvmR9kvY6nW7RlJrQhX%2FjOCWqwaIcFmPzs%2BPLHUFdDo0oqxZBVU9JBD2LwDVikfx5a/cfall/s2001/v3b/9015p3n2nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_602531.m3u8
+https://fhlsport121.fhs36f7.xyz/token-LUMoyeWUe%2FOG7TZ6l%2FY6m26HlJqGgivjbSKvw6YbFmSh5OWYHUFdDo0pqhBPVU9JBD2LwDVikfx5a/cfall/s2001/v3b/87n57n12nUE0pQbiY2EyYKW4qP4mrUA0oF5iozH%3D/super/3x_602830.m3u8
 
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",liga bri
@@ -47,7 +47,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/indosiar.m3u8
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",liga bri 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
-https://fhlsport121.fhs36f7.xyz/token-JE94ybGWLPKGvGwvwfY6zWjRlMDQ0HvjbySuzqUdGDWg5eHLHUFdDo0oqxZMXElJBD2LwDVikfx5a/cfall/s2001/v3b/9015p3n2nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_602531.m3u8
+
 
 
 
