@@ -1150,7 +1150,7 @@ https://jiiobylelo2.vercel.app/api/stream?channel=490
 ===============================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="Vision+ ",RCTI (V+)
-http://202.147.193.244/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png" group-title="Vision+ ",GTV (V+)
 http://202.147.193.244/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
