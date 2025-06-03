@@ -1,3 +1,35 @@
+
+#EXTINF:-1 tvg-id="sportdigital" tvg-name="DE: SPORT DIGITAL" tvg-logo="https://i.ibb.co/LhRTwgXz/cindo.jpg" group-title="TIMNAS", SPORTSTARS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#EXTINF:-1 tvg-id="sportdigital" tvg-name="DE: SPORT DIGITAL" tvg-logo="https://i.ibb.co/LhRTwgXz/cindo.jpg" group-title="TIMNAS",RCTI
+https://zozotv.xyz:443/live/mdfazrin86/ztv728269/47.ts
+
+#EXTINF:-1 tvg-id="sportdigital" tvg-name="DE: SPORT DIGITAL" tvg-logo="https://i.ibb.co/LhRTwgXz/cindo.jpg" group-title="TIMNAS",SS 2
+https://zozotv.xyz:443/live/mdfazrin86/ztv728269/165.ts
+
+#EXTINF:-1 tvg-id="sportdigital" tvg-name="DE: SPORT DIGITAL" tvg-logo="https://i.ibb.co/LhRTwgXz/cindo.jpg" group-title="TIMNAS",SPORT DIGITAL
+http://vipgerretger.top:8080/VIP01133172051655888/b5505a6b83bb/1424
+#EXTINF:-1 tvg-id="sportdigital" tvg-name="DE: SPORT DIGITAL" tvg-logo="https://i.ibb.co/LhRTwgXz/cindo.jpg" group-title="TIMNAS",DAZN SPORTDIGITAL FUSSBALL
+http://vipgerretger.top:8080/VIP01133172051655888/b5505a6b83bb/99249
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/2ovopi1tg2wym6v/mutv.png" group-title=">>⚽LIVE SPORTS⚽ <<",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
