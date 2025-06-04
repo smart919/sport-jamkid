@@ -1,3 +1,25 @@
+#EXTINF:-1 tvg-id="" tvg-name="#####  EVENTS #####" tvg-logo="https://go4.pw/vip.png" group-title="VIP | GOLDEN EVENTS",#####  EVENTS #####
+http://bestp55.xyz:80/live/A7FC77529786/519C32219872/1123435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP 1 - EVENT 01" tvg-logo="https://go4.pw/vip.png" group-title="VIP | GOLDEN EVENTS",VIP 1 - EVENT 01
+http://bestp55.xyz:80/live/A7FC77529786/519C32219872/1123274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP 2 -  EVENT 02" tvg-logo="https://go4.pw/vip.png" group-title="VIP | GOLDEN EVENTS",VIP 2 -  EVENT 02
+http://bestp55.xyz:80/live/A7FC77529786/519C32219872/1123275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP 3 -  EVENT 03" tvg-logo="https://go4.pw/vip.png" group-title="VIP | GOLDEN EVENTS",VIP 3 -  EVENT 03
+http://bestp55.xyz:80/live/A7FC77529786/519C32219872/1123276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP 4 -  EVENT 04" tvg-logo="https://go4.pw/vip.png" group-title="VIP | GOLDEN EVENTS",VIP 4 -  EVENT 04
+http://bestp55.xyz:80/live/A7FC77529786/519C32219872/1123277.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP 5 -  EVENT 05" tvg-logo="https://go4.pw/vip.png" group-title="VIP | GOLDEN EVENTS",VIP 5 -  EVENT 05
+http://bestp55.xyz:80/live/A7FC77529786/519C32219872/1123278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP 6 - EVENT 06" tvg-logo="https://go4.pw/vip.png" group-title="VIP | GOLDEN EVENTS",VIP 6 - EVENT 06
+http://bestp55.xyz:80/live/A7FC77529786/519C32219872/1123334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP 7 - EVENT 07" tvg-logo="https://go4.pw/vip.png" group-title="VIP | GOLDEN EVENTS",VIP 7 - EVENT 07
+http://bestp55.xyz:80/live/A7FC77529786/519C32219872/1123346.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP 8 - EVENT 08 " tvg-logo="https://go4.pw/vip.png" group-title="VIP | GOLDEN EVENTS",VIP 8 - EVENT 08 
+http://bestp55.xyz:80/live/A7FC77529786/519C32219872/1123347.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP 9 - EVENT 09" tvg-logo="https://go4.pw/vip.png" group-title="VIP | GOLDEN EVENTS",VIP 9 - EVENT 09
+http://bestp55.xyz:80/live/A7FC77529786/519C32219872/1123432.m3u8
+
+
 
 #EXTINF:-1 tvg-id="sportdigital" tvg-name="DE: SPORT DIGITAL" tvg-logo="https://i.ibb.co/LhRTwgXz/cindo.jpg" group-title="TIMNAS", SPORTSTARS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
