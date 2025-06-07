@@ -49,6 +49,7 @@ http://vipgerretger.top:8080/VIP01133172051655888/b5505a6b83bb/99249
 
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",VNL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
 https://fhlsport121.fgs37g8.xyz/token-JBUvn%2BGVe6WG6TZ7kvY6zTnSlJvahyHjOCb%2Fk%2FNKRDGg5uTLHUFdDoMuqhxKXExJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/4o9018n3nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_604965.m3u8
 
