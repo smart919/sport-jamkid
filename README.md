@@ -1613,5 +1613,21 @@ https://special-by07.vercel.app/api/stream?channel=1120
 #EXTVLCOPT:http-user-agent=IPTV07INDIA
 https://special-by07.vercel.app/api/stream?channel=1121
 
+#EXTINF:-1 tvg-id="Polsat.Sport.Extra.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/polsat-sport-extra-poland.png" group-title="@DADDY TV",Polsat Sport Extra Poland
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium50/mono.m3u8
 
+#EXTINF:-1 tvg-id="Polsat.Sport.News.HD.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/polsat-sport-news-poland.png" group-title="@DADDY TV",Polsat Sport News Poland
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium129/mono.m3u8
+
+#EXTINF:-1 tvg-id="Polsat.Sport.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/polsat-sport-poland.png" group-title="@DADDY TV",Polsat Sport Poland
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium47/mono.m3u8
 
