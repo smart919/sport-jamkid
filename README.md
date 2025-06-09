@@ -313,6 +313,33 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 
 ====================================================================================================
+#REFRESH="1"
+#EXTINF:-10.0 tvg-id="premiersports.uk" tvg-name="IE| PREMIER SPORTS 1 HD" tvg-logo="https://lo1.in/ir/prsp1.png" group-title="SPORTS CHANNEL",⭐PREMIER SPORTS 1 HD⭐
+http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/376274
+#REFRESH="1"
+#EXTINF:-10.0 tvg-id="premiersports2.uk" tvg-name="IE| PREMIER SPORTS 2 HD" tvg-logo="https://lo1.in/ir/prsp2.png" group-title="SPORTS CHANNEL",⭐PREMIER SPORTS 2 HD⭐
+http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/376273
+
+#EXTINF:-10.0 tvg-id="1.OPTUS" tvg-name="UK| OPTUS 01 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="SPORTS CHANNEL",⭐ OPTUS 01 [EVENT ONLY]⭐
+http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/191762
+#REFRESH="1"
+#EXTINF:-10.0 tvg-id="2.OPTUS" tvg-name="UK| OPTUS 02 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="SPORTS CHANNEL",⭐ OPTUS 02 [EVENT ONLY]⭐
+http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/191763
+#REFRESH="1"
+#EXTINF:-10.0 tvg-id="3.OPTUS" tvg-name="UK| OPTUS 03 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="SPORTS CHANNEL"⭐ OPTUS 03 [EVENT ONLY]⭐
+http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/191764
+#REFRESH="1"
+#EXTINF:-10.0 tvg-id="4.OPTUS" tvg-name="UK| OPTUS 04 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="SPORTS CHANNEL",⭐ OPTUS 04 [EVENT ONLY]⭐
+http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/191765
+#REFRESH="1"
+#EXTINF:-10.0 tvg-id="5.OPTUS" tvg-name="UK| OPTUS 05 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="SPORTS CHANNEL",⭐ OPTUS 05 [EVENT ONLY]⭐
+http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/191766
+#REFRESH="1"
+#EXTINF:-10.0 tvg-id="6.OPTUS" tvg-name="UK| OPTUS 06 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="SPORTS CHANNEL",⭐ OPTUS 06 [EVENT ONLY]⭐
+http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/191767
+#REFRESH="1"
+#EXTINF:-10.0 tvg-id="7.OPTUS" tvg-name="UK| OPTUS 07 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="SPORTS CHANNEL",⭐ OPTUS 07 [EVENT ONLY]⭐
+http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/191768
 
 
 
