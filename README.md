@@ -55,7 +55,7 @@ http://vipgerretger.top:8080/VIP01133172051655888/b5505a6b83bb/99249
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",VNL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-
+https://fhlsport121.fgs37g8.xyz/token-IEIukuTGKPeGv2IgxPY6mziFlMDQgHzjayf8x%2FNPETL27radHUFdDoMoqRJAWEVJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/rpros3n9nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_605291.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/2ovopi1tg2wym6v/mutv.png" group-title=">>⚽LIVE SPORTS⚽ <<",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
