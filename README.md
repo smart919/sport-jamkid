@@ -1,24 +1,41 @@
-#EXTINF:-1 tvg-id="" tvg-name="#####  EVENTS #####" tvg-logo="https://go4.pw/vip.png" group-title="VIP | GOLDEN EVENTS",#####  EVENTS #####
-http://bestp55.xyz:80/live/A7FC77529786/519C32219872/1123435.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP 1 - EVENT 01" tvg-logo="https://go4.pw/vip.png" group-title="VIP | GOLDEN EVENTS",VIP 1 - EVENT 01
-http://bestp55.xyz:80/live/A7FC77529786/519C32219872/1123274.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP 2 -  EVENT 02" tvg-logo="https://go4.pw/vip.png" group-title="VIP | GOLDEN EVENTS",VIP 2 -  EVENT 02
-http://bestp55.xyz:80/live/A7FC77529786/519C32219872/1123275.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP 3 -  EVENT 03" tvg-logo="https://go4.pw/vip.png" group-title="VIP | GOLDEN EVENTS",VIP 3 -  EVENT 03
-http://bestp55.xyz:80/live/A7FC77529786/519C32219872/1123276.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP 4 -  EVENT 04" tvg-logo="https://go4.pw/vip.png" group-title="VIP | GOLDEN EVENTS",VIP 4 -  EVENT 04
-http://bestp55.xyz:80/live/A7FC77529786/519C32219872/1123277.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP 5 -  EVENT 05" tvg-logo="https://go4.pw/vip.png" group-title="VIP | GOLDEN EVENTS",VIP 5 -  EVENT 05
-http://bestp55.xyz:80/live/A7FC77529786/519C32219872/1123278.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP 6 - EVENT 06" tvg-logo="https://go4.pw/vip.png" group-title="VIP | GOLDEN EVENTS",VIP 6 - EVENT 06
-http://bestp55.xyz:80/live/A7FC77529786/519C32219872/1123334.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP 7 - EVENT 07" tvg-logo="https://go4.pw/vip.png" group-title="VIP | GOLDEN EVENTS",VIP 7 - EVENT 07
-http://bestp55.xyz:80/live/A7FC77529786/519C32219872/1123346.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP 8 - EVENT 08 " tvg-logo="https://go4.pw/vip.png" group-title="VIP | GOLDEN EVENTS",VIP 8 - EVENT 08 
-http://bestp55.xyz:80/live/A7FC77529786/519C32219872/1123347.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP 9 - EVENT 09" tvg-logo="https://go4.pw/vip.png" group-title="VIP | GOLDEN EVENTS",VIP 9 - EVENT 09
-http://bestp55.xyz:80/live/A7FC77529786/519C32219872/1123432.m3u8
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",LIVE 1
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",LIVE 2
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",LIVE 3
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png", LIVE 4
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+
+
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png", LIVE 5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png", LIVE 6
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+
+#EXTINF:-1 group-title="EVENT 10/JUNI/2025" tvg-logo="https://iili.io/FJpuxMG.png", 17:35 WIB Jepang vs Indonesia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
 #EXTINF:-1 tvg-id="sportdigital" tvg-name="DE: SPORT DIGITAL" tvg-logo="https://i.ibb.co/LhRTwgXz/cindo.jpg" group-title="TIMNAS", SPORTSTARS 2
@@ -55,7 +72,7 @@ http://vipgerretger.top:8080/VIP01133172051655888/b5505a6b83bb/99249
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",VNL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://fhlsport121.fgs37g8.xyz/token-IEIukuTGKPeGv2IgxPY6mziFlMDQgHzjayf8x%2FNPETL27radHUFdDoMoqRJAWEVJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/rpros3n9nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_605291.m3u8
+
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/2ovopi1tg2wym6v/mutv.png" group-title=">>⚽LIVE SPORTS⚽ <<",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
