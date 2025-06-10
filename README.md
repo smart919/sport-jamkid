@@ -30,7 +30,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png", LIVE 6
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 
-#EXTINF:-1 group-title="EVENT 10/JUNI/2025" tvg-logo="https://iili.io/FJpuxMG.png", 17:35 WIB Jepang vs Indonesia
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<"  tvg-logo="https://iili.io/FJpuxMG.png", 17:35 WIB Jepang vs Indonesia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -45,7 +45,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 tvg-id="sportdigital" tvg-name="DE: SPORT DIGITAL" tvg-logo="https://i.ibb.co/LhRTwgXz/cindo.jpg" group-title="TIMNAS",RCTI
+
 
 
 #EXTINF:-1 tvg-id="sportdigital" tvg-name="DE: SPORT DIGITAL" tvg-logo="https://i.ibb.co/LhRTwgXz/cindo.jpg" group-title="TIMNAS",SS 2
@@ -1152,69 +1152,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid
 
 =========================================================================================================================================================
 
-#EXTINF:-1 tvg-id="1106" tvg-name="Sony MAX" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="IPTV07INDIA " group-logo="https://i.ibb.co/JWsf8D7L/bck-1.png", Sony MAX
-#EXTVLCOPT:http-user-agent=IPTV07INDIA
-https://special-by07.vercel.app/api/stream?channel=1106
 
-#EXTINF:-1 tvg-id="1107" tvg-name="Sony MAX 2" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="IPTV07INDIA " group-logo="https://i.ibb.co/JWsf8D7L/bck-1.png", Sony MAX 2
-#EXTVLCOPT:http-user-agent=IPTV07INDIA
-https://special-by07.vercel.app/api/stream?channel=1107
-
-#EXTINF:-1 tvg-id="1108" tvg-name="Sony WAH" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="IPTV07INDIA " group-logo="https://i.ibb.co/JWsf8D7L/bck-1.png", Sony WAH
-#EXTVLCOPT:http-user-agent=IPTV07INDIA
-https://special-by07.vercel.app/api/stream?channel=1108
-
-#EXTINF:-1 tvg-id="1109" tvg-name="Sony PIX HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="IPTV07INDIA " group-logo="https://i.ibb.co/JWsf8D7L/bck-1.png", Sony PIX HD
-#EXTVLCOPT:http-user-agent=IPTV07INDIA
-https://special-by07.vercel.app/api/stream?channel=1109
-
-#EXTINF:-1 tvg-id="1110" tvg-name="Sony BBC Earth HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="IPTV07INDIA " group-logo="https://i.ibb.co/JWsf8D7L/bck-1.png", Sony BBC Earth HD
-#EXTVLCOPT:http-user-agent=IPTV07INDIA
-https://special-by07.vercel.app/api/stream?channel=1110
-
-#EXTINF:-1 tvg-id="1111" tvg-name="Sony Sports Ten 1" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="IPTV07INDIA " group-logo="https://i.ibb.co/JWsf8D7L/bck-1.png", Sony Sports Ten 1
-#EXTVLCOPT:http-user-agent=IPTV07INDIA
-https://special-by07.vercel.app/api/stream?channel=1111
-
-#EXTINF:-1 tvg-id="1112" tvg-name="Sony Sports Ten 2" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="IPTV07INDIA " group-logo="https://i.ibb.co/JWsf8D7L/bck-1.png", Sony Sports Ten 2
-#EXTVLCOPT:http-user-agent=IPTV07INDIA
-https://special-by07.vercel.app/api/stream?channel=1112
-
-#EXTINF:-1 tvg-id="1113" tvg-name="Sony Sports Ten 3" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="IPTV07INDIA " group-logo="https://i.ibb.co/JWsf8D7L/bck-1.png", Sony Sports Ten 3
-#EXTVLCOPT:http-user-agent=IPTV07INDIA
-https://special-by07.vercel.app/api/stream?channel=1113
-
-#EXTINF:-1 tvg-id="1114" tvg-name="Sony Sports Ten 4" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="IPTV07INDIA " group-logo="https://i.ibb.co/JWsf8D7L/bck-1.png", Sony Sports Ten 4
-#EXTVLCOPT:http-user-agent=IPTV07INDIA
-https://special-by07.vercel.app/api/stream?channel=1114
-
-#EXTINF:-1 tvg-id="1115" tvg-name="Sony Sports Ten 5" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="IPTV07INDIA " group-logo="https://i.ibb.co/JWsf8D7L/bck-1.png", Sony Sports Ten 5
-#EXTVLCOPT:http-user-agent=IPTV07INDIA
-https://special-by07.vercel.app/api/stream?channel=1115
-
-#EXTINF:-1 tvg-id="1116" tvg-name="Sony Sports Ten 1 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="IPTV07INDIA " group-logo="https://i.ibb.co/JWsf8D7L/bck-1.png", Sony Sports Ten 1 HD
-#EXTVLCOPT:http-user-agent=IPTV07INDIA
-https://special-by07.vercel.app/api/stream?channel=1116
-
-#EXTINF:-1 tvg-id="1117" tvg-name="Sony Sports Ten 2 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="IPTV07INDIA " group-logo="https://i.ibb.co/JWsf8D7L/bck-1.png", Sony Sports Ten 2 HD
-#EXTVLCOPT:http-user-agent=IPTV07INDIA
-https://special-by07.vercel.app/api/stream?channel=1117
-
-#EXTINF:-1 tvg-id="1118" tvg-name="Sony Sports Ten 3 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="IPTV07INDIA " group-logo="https://i.ibb.co/JWsf8D7L/bck-1.png", Sony Sports Ten 3 HD
-#EXTVLCOPT:http-user-agent=IPTV07INDIA
-https://special-by07.vercel.app/api/stream?channel=1118
-
-#EXTINF:-1 tvg-id="1119" tvg-name="Sony Sports Ten 4 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="IPTV07INDIA " group-logo="https://i.ibb.co/JWsf8D7L/bck-1.png", Sony Sports Ten 4 HD
-#EXTVLCOPT:http-user-agent=IPTV07INDIA
-https://special-by07.vercel.app/api/stream?channel=1119
-
-#EXTINF:-1 tvg-id="1120" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="IPTV07INDIA " group-logo="https://i.ibb.co/JWsf8D7L/bck-1.png", Sony Sports Ten 5 HD
-#EXTVLCOPT:http-user-agent=IPTV07INDIA
-https://special-by07.vercel.app/api/stream?channel=1120
-
-#EXTINF:-1 tvg-id="1121" tvg-name="Sony MAX 1" tvg-logo="https://www.sonymax1.com/assets/images/sonymax1.png" group-title="IPTV07INDIA " group-logo="https://i.ibb.co/JWsf8D7L/bck-1.png", Sony MAX 1
-#EXTVLCOPT:http-user-agent=IPTV07INDIA
-https://special-by07.vercel.app/api/stream?channel=1121
 
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/polsat-sport-extra-poland.png" group-title="@DADDY TV",Polsat Sport Extra Poland
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
