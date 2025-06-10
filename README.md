@@ -120,9 +120,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title=">>⚽LIVE SPORTS⚽ <<",Astro Football
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroGrandstand.png" group-title=">>⚽LIVE SPORTS⚽ <<",Astro Grandstand
 #EXTVLCOPT:http-user-agent=Intraplay5
 https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
