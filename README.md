@@ -572,57 +572,35 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SPOTV.png" group-title="09. Sports TV",001. SPOTV1
 https://wahyu1ptv.pages.dev/SPOTV1-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SPOTV2.png" group-title="09. Sports TV",002. SPOTV2
 https://wahyu1ptv.pages.dev/SPOTV2-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_1.png" group-title="09. Sports TV",003. SportStars1
 https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_2.png" group-title="09. Sports TV",004. SportStars2
 https://wahyu1ptv.pages.dev/SportStars2-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID1.png" group-title="09. Sports TV",005. BeinSports1
 https://wahyu1ptv.pages.dev/IdBeinSports1-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="09. Sports TV",006. BeinSports1
 https://wahyu1ptv.pages.dev/AstroBein1.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="09. Sports TV" ,007. BeinSports2
 https://wahyu1ptv.pages.dev/AstroBein2.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="09. Sports TV" ,008. BeinSports3
 https://wahyu1ptv.pages.dev/AstroBein3.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena.png" group-title="09. Sports TV",009. AstroArena1
 https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena2.png" group-title="09. Sports TV",010. AstroArena2
 https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola.png" group-title="09. Sports TV",011. AstroArenaBola1
 https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola2.png" group-title="09. Sports TV",012. AstroArenaBola2
 https://wahyu1ptv.pages.dev/AstroArenaBola2-HD.m3u8
