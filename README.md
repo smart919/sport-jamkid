@@ -62,8 +62,7 @@ http://vipgerretger.top:8080/VIP01133172051655888/b5505a6b83bb/99249
 
 
 
-#EXTINF:-1 group-title=">>⚽FIFA WORLD CUP⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co/JRpjzxbq/Flag-of-FIFA-svg.png",SPORT KLUB 3
-https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CMlBzN1EDMwUmYkZTL2cDO50SM2YGNtMzY5YTLxQTOmlTZ1Q2L.m3u8
+
 
 
 
