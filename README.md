@@ -30,7 +30,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png", LIVE 6
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<"  tvg-logo="https://iili.io/FJpuxMG.png", 17:35 WIB Jepang vs Indonesia
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<"  tvg-logo="https://iili.io/FJpuxMG.png", sportstar 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -94,12 +94,11 @@ https://hotlivezz179026907.akainu.xyz/Il-iluS0kiiUu-npPavkIw/Fv2lucGIbhPi2caWYvF
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",USA OPEN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://fhlsport121.fgs37g8.xyz/token-JkZ5zrHBf6SG5W18wPY6ymKFlJqDhi3jPyD4xaEYQTbztOadHUFdD4orqxZAWE5JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/19148046nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_606998.m3u8
+
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",USA OPEN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://fhlsport121.fgs37g8.xyz/token-J0R9mOLHK6eG7GMuxfY6z2zSlJrTjHvjPXSqxqZNGGL34eLMHUFdD4orqxFLX01JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/q12p46srnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_607002.m3u8
 
 
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title=">>⚽LIVE SPORTS⚽ <<",LIGA BRI
