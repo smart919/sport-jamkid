@@ -1336,9 +1336,8 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
  
  
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://images.useetv.com/logo_antv_big1.png" group-title="Nasional",ANTV
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=antv
+https://zozotv.xyz:443/live/tonot@562/z562/51.ts
+
  
 #EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="Nasional", Trans7 Digital
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
