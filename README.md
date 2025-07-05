@@ -6,6 +6,8 @@
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/2ovopi1tg2wym6v/mutv.png" group-title=">>⚽LIVE SPORTS⚽ <<",fifa world club
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilac365s.cc/
 https://live.golivenow71.com/37ecee241ee5a1ff0f01c726904dc53d/1751725021353/lhsazur/lhsazur@720p.m3u8
 
 
