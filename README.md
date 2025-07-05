@@ -5,11 +5,10 @@
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/2ovopi1tg2wym6v/mutv.png" group-title=">>⚽LIVE SPORTS⚽ <<",fifa world club
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/2ovopi1tg2wym6v/mutv.png" group-title=">>⚽LIVE SPORTS⚽ <<",Mls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilac365s.cc/
-https://live.golivenow71.com/37ecee241ee5a1ff0f01c726904dc53d/1751725021353/lhsazur/lhsazur@720p.m3u8
-
+#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
+https://fhlsport121.fgs37g8.xyz/token-JEF%2FyOSSLv%2BG6mQux%2FY6mWrSlMDRgi%2FjbnSrzqNMGDn7srDPHUFdD4sqpBFNXERJBCeIxTNhkA%3D%3Da/cfall/s6/v3b/9547o544nUE0pUZ6Yl9mYJVlYaEiq3Eio21uYz5yqN%3D%3D/plyvivo/vo4o8u5okaj03a1ibe7a/chunklist.m3u8
 
 
 
