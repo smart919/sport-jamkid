@@ -5,11 +5,8 @@
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/2ovopi1tg2wym6v/mutv.png" group-title=">>⚽LIVE SPORTS⚽ <<",Mls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://fhlsport121.fgs37g8.xyz/token-JEF%2FyOSSLv%2BG6mQux%2FY6mWrSlMDRgi%2FjbnSrzqNMGDn7srDPHUFdD4sqpBFNXERJBCeIxTNhkA%3D%3Da/cfall/s6/v3b/9547o544nUE0pUZ6Yl9mYJVlYaEiq3Eio21uYz5yqN%3D%3D/plyvivo/vo4o8u5okaj03a1ibe7a/chunklist.m3u8
-
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/2ovopi1tg2wym6v/mutv.png" group-title=">>⚽LIVE SPORTS⚽ <<",piala presiden
+https://apisportzz179528093.nsnd.live/72_uhh3MFyt5s3wvhYyjfg/Fv2lucGIbhPi2caWYvF5Lg/1751811623405/live/sd-6MuSsYeZdXPgXaMyWj/chunklist.m3u8
 
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf 2
