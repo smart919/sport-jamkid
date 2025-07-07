@@ -6,7 +6,7 @@ https://357bo.sxlingchuangkeji.com/live/404_1751881478.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1751880673/dxlnz5jezygbsflcfoas.jpg" group-title=">>⚽LIVE SPORTS⚽ <<",piala presiden
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://fhlsport121.fgs37g8.xyz/token-J0N8mOKVePWGvjN8kfY6nD3XlJrW0XrjOiz%2Fx6dHQWT2suHIHUFdD4skrBNMVE5JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/0518sr1onUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_608252.m3u8
+https://fhlsport121.fgs37g8.xyz/token-IUJ9mOTHL%2F6G7TApy%2FY6yjiDlMPV0SDjaCz5l6lKGTejteXMHUFdD4skpBNPWEhJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/ro96os03nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_608390.m3u8
 
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf 2
