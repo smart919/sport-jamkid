@@ -1,9 +1,14 @@
 
 
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1751880673/dxlnz5jezygbsflcfoas.jpg",piala presiden
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1751880673/dxlnz5jezygbsflcfoas.jpg",piala presiden 
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 12; cjf10x) ExoPlayerLib/2.15.1
+http://103.159.195.61:9981/stream/channelid/828235930?profile=pass
+
+
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1751880673/dxlnz5jezygbsflcfoas.jpg",piala presiden 2
 https://357bo.sxlingchuangkeji.com/live/60_1751960635.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1751880673/dxlnz5jezygbsflcfoas.jpg" group-title=">>⚽LIVE SPORTS⚽ <<",piala presiden
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1751880673/dxlnz5jezygbsflcfoas.jpg" group-title=">>⚽LIVE SPORTS⚽ <<",piala presiden 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
 https://fhlsport121.fgs37g8.xyz/token-I0MunOTBffaGvGcpkPY6zGvQlJva1yjjPiSswqBNEzn157ecHUFdD4slqhZPWERJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/019r582snUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_608429.m3u8
