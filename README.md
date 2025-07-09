@@ -21,9 +21,11 @@ https://hotlivezz179026907.akainu.xyz/qdwx6QCMpAVYDrrQaooj8g/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/Il-iluS0kiiUu-npPavkIw/Fv2lucGIbhPi2caWYvF5Lg/1745999403001/live/may25/chunklist.m3u8
 
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",USA OPEN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",tes live
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1752052395&sign=bd9d929e6908299be33e9051f4260009
 
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",USA OPEN 2
