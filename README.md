@@ -1,10 +1,7 @@
 
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1751880673/dxlnz5jezygbsflcfoas.jpg",piala presiden 
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 12; cjf10x) ExoPlayerLib/2.15.1
-http://103.159.195.61:9981/stream/channelid/828235930?profile=pass
-
-
+http://vipgerretger.top:8080/VIP01133172051655888/b5505a6b83bb/34327
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1751880673/dxlnz5jezygbsflcfoas.jpg",piala presiden 2
 https://357bo.sxlingchuangkeji.com/live/60_1751960635.m3u8
 
