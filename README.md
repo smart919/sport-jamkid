@@ -1,9 +1,9 @@
 
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1751880673/dxlnz5jezygbsflcfoas.jpg",piala presiden 
-http://vipgerretger.top:8080/VIP01133172051655888/b5505a6b83bb/34327
+
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1751880673/dxlnz5jezygbsflcfoas.jpg",piala presiden 2
-https://357bo.sxlingchuangkeji.com/live/60_1751960635.m3u8
+
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1751880673/dxlnz5jezygbsflcfoas.jpg" group-title=">>⚽LIVE SPORTS⚽ <<",AVL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
@@ -22,12 +22,9 @@ https://hotlivezz179026907.akainu.xyz/Il-iluS0kiiUu-npPavkIw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1752052395&sign=bd9d929e6908299be33e9051f4260009
+
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",volly
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/II91yig515x8JTANVngGDw/Fv2lucGIbhPi2caWYvF5Lg/1752052395394/live/oldSD/chunklist.m3u8
+https://mv-c767f67a88-lb.fast5cdn.net/a73a03467db3fe013887b406a2f445d8/1752156767490/channel-9/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title=">>⚽LIVE SPORTS⚽ <<",LIGA BRI
