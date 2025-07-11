@@ -2247,10 +2247,7 @@ https://ch.semar.my.id/req?id=sporttv2.m3u8&auth=spt2semar25
 https://ch.semar.my.id/req?id=sporttv3.m3u8&auth=spt3semar25
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV4.png" group-title="Saluran Olahraga", Sport.TV4
 https://ch.semar.my.id/req?id=sporttv4.m3u8&auth=spt4semar25
-#EXTINF:-1 tvg-logo="" group-title="Live",0. https://t.me/semar_25
-#https://cdn.semar.my.id/
-#https://semar.my.id/lapor/lapor.m3u8
-https://ch.semar.my.id/req?id=tele.m3u8&auth=telesemar25
+
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/68/AFC_Women%27s_Asian_Cup.png" group-title="Live", Taipei vs Indonesia
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
