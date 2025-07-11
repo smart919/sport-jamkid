@@ -1,8 +1,6 @@
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title=">>⚽LIVE SPORTS⚽ <<",piala presiden
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://fhlsport121.fgs37g8.xyz/token-Jhd4mbOXIP%2BGvDMtxvY6m26AlJuB03vjOSGpkKVGEjf7teHPHUFdD4gtqRZAXEtJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/9srn0945nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_608508.m3u8
-
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<"  tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1751880673/dxlnz5jezygbsflcfoas.jpg",LIVE piala presiden
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://103.159.195.61:9981/stream/channelid/828235930?profile=pass
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1751880673/dxlnz5jezygbsflcfoas.jpg",piala presiden 
 https://357bo.sxlingchuangkeji.com/live/60_1752134445.m3u8
