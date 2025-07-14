@@ -1,18 +1,16 @@
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<"  tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1751880673/dxlnz5jezygbsflcfoas.jpg",LIVE piala presiden
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://103.159.195.61:9981/stream/channelid/828235930?profile=pass
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752453259/j9dv431zshwo00i1qbpv.jpg",LIVE AFF U-23
+http://goldenpro.xyz:80/VUVZ89R/4EXX322/1247933
+ 
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752453259/j9dv431zshwo00i1qbpv.jpg",LIVE AFF u-23 2
+http://goldenpro.xyz:80/VUVZ89R/4EXX322/1131941
+ 
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752453259/j9dv431zshwo00i1qbpv.jpg",LIVE AFF u23 3
+http://goldenpro.xyz:80/VUVZ89R/4EXX322/1131942
 
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1751880673/dxlnz5jezygbsflcfoas.jpg",piala presiden 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://ch.semar.my.id/req?id=idigital.m3u8&auth=idgtlsemar25&url=up
-
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1751880673/dxlnz5jezygbsflcfoas.jpg",piala presiden 2
-
-
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1751880673/dxlnz5jezygbsflcfoas.jpg" group-title=">>⚽LIVE SPORTS⚽ <<",AVL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://fhlsport121.fgs37g8.xyz/token-cBN8zbnALqKGvGQpy%2FY6mz6ClJqB1Czjanb7xaEYRTCn4LadHUFdD4gvrBJJW0xJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/9ps5s442nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_608923.m3u8
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf 2
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
