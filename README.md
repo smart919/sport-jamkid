@@ -24,9 +24,7 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1751880673/dxlnz5jezygbsflcfoas.jpg" group-title=">>⚽LIVE SPORTS⚽ <<",aff u23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://fhlsport121.fgs37g8.xyz/token-I0V5n%2BaRLaWG621%2BxfY6y2nXlMPXgn%2FjPyOqxfBJGTf37uTPHUFdD4gppBFLVUhJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/340n7nn8nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_609263.m3u8
+
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf 2
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
@@ -42,8 +40,7 @@ https://hotlivezz179026907.akainu.xyz/Il-iluS0kiiUu-npPavkIw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf
-https://ilang.in/QIKYaB
+
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-logo="https://iili.io/FJbkjte.png", VOLLEYBALL NATIONS LEAGUE 1
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
