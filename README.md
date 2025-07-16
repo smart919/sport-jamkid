@@ -26,20 +26,21 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
 https://fhlsport121.fgs37g8.xyz/token-JEEpnrOXLqKG7GAvkfY6m2uLlJuG13vjaCX8kqdJGTnw5uOeHUFdD4gqrxRPW0pJBCeIxTNhkA%3D%3Da/cfall/s2/v3b/q2q3s141nUE0pUZ6Yl9fnKMyL2EhYaW1oKAjo3W0YzAioD%3D%3D/stream/32/chunks.m3u8
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf 2
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/qdwx6QCMpAVYDrrQaooj8g/Fv2lucGIbhPi2caWYvF5Lg/1745999403000/live/may24/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/3948836270763061_AiHD.m3u8?txSecret=b632306b0549e0423a7002a70afdf033&txTime=687820E0
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf 3
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/Il-iluS0kiiUu-npPavkIw/Fv2lucGIbhPi2caWYvF5Lg/1745999403001/live/may25/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/3948836476342061_AiHD.m3u8?txSecret=609f0e94c65cafb2a41ec5da65e08a1c&txTime=687820E0
 
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",tes live
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf 4
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://b188f789c84dcab4371c6e06ad24ca1e.v.smtcdns.net/play.cbalive.weibisai.com/live/3948836660295061_AiHD.m3u8?txSecret=9438a654865f20f9879da329afdb02ea&txTime=687820E0
+
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf 5
 https://ilang.in/WTqFyn
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-logo="https://iili.io/FJbkjte.png", VOLLEYBALL NATIONS LEAGUE 1
