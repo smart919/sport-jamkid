@@ -8,11 +8,12 @@ http://goldenpro.xyz:80/VUVZ89R/4EXX322/1131941
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1131942
 
  
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752453259/j9dv431zshwo00i1qbpv.jpg",LIVE AFF u23 4
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752453259/j9dv431zshwo00i1qbpv.jpg",LIVE AFF u23
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
-https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
- 
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752453259/j9dv431zshwo00i1qbpv.jpg",LIVE AFF u23 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
