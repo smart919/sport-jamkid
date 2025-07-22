@@ -14,10 +14,6 @@ http://goldenpro.xyz:80/VUVZ89R/4EXX322/1131942
 https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
 
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752453259/j9dv431zshwo00i1qbpv.jpg",LIVE AFF u23 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 
 
