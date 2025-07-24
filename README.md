@@ -28,7 +28,7 @@ https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf 2
 https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/3954875340389061_AiHD.m3u8?txSecret=6771a179e5f13724c24dfd723a0669a9&txTime=6882BAF0
 
-#https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/3954875528079061_AiHD.m3u8?txSecret=e271646d9b6dde8d5936c395c48e5235&txTime=6882BAF0EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf 3
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf 3
 https://4c9acbfc5736afa854fa764f3bafa98e.v.smtcdns.net/play.cbalive.weibisai.com/live/3954875691873061_AiHD.m3u8?txSecret=0cc81b2eb38706ead369b45169782bc6&txTime=6882BAF0
 
 
