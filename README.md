@@ -38,7 +38,7 @@ https://4c9acbfc5736afa854fa764f3bafa98e.v.smtcdns.net/play.cbalive.weibisai.com
 
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf 5
-https://ilang.in/WTqFyn
+
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-logo="https://iili.io/FJbkjte.png", VOLLEYBALL NATIONS LEAGUE 1
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
