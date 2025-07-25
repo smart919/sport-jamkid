@@ -23,13 +23,12 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 https://hotlivezz179026907.akainu.xyz/qdwx6QCMpAVYDrrQaooj8g/Fv2lucGIbhPi2caWYvF5Lg/1745999403000/live/may24/chunklist.m3u8
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf 1
-https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/3954875340389061_AiHD.m3u8?txSecret=6771a179e5f13724c24dfd723a0669a9&txTime=6882BAF0
-
+https://6016c12814103e2553f354492d71134e.v.smtcdns.net/play.cbalive.weibisai.com/live/3954876165875061_AiHD.m3u8?txSecret=b9dbf330405171193e7e00e2d8a9e514&txTime=68841A80
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf 2
-https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/3954875340389061_AiHD.m3u8?txSecret=6771a179e5f13724c24dfd723a0669a9&txTime=6882BAF0
+
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf 3
-https://4c9acbfc5736afa854fa764f3bafa98e.v.smtcdns.net/play.cbalive.weibisai.com/live/3954875691873061_AiHD.m3u8?txSecret=0cc81b2eb38706ead369b45169782bc6&txTime=6882BAF0
+
 
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf 4
