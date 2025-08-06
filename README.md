@@ -1,13 +1,13 @@
 #EXTINF:-1 group-title="🏆BADMINTON🏆" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752203765/fhouuqwgqdbyxiwxtrds.jpg", macau OPEN
-https://6016c12814103e2553f354492d71134e.v.smtcdns.net/play.cbalive.weibisai.com/live/3961780629673061_AiHD.m3u8?txSecret=c0c5fe4fba3a46799a1d290558818ca6&txTime=688EC2A0
+
 
 #EXTINF:-1 group-title="🏆BADMINTON🏆" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752203765/fhouuqwgqdbyxiwxtrds.jpg",bwf 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://fhlsport121.fgs37g8.xyz/token-LEB4kriXLKOGvzAox%2FY6mGnQlJrTgSnjbnT4wqFLGWbxsOHKHUFdD44trBJPWUlJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/r69p89s2nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_611405.m3u8
+
 
 #EXTINF:-1 group-title="🏆BADMINTON🏆" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752203765/fhouuqwgqdbyxiwxtrds.jpg",bwf 2
-https://6016c12814103e2553f354492d71134e.v.smtcdns.net/play.cbalive.weibisai.com/live/3961780431673061_AiHD.m3u8?txSecret=0d1a7ac94be0b6ed4f1bf7b0c8f8c4e0&txTime=688EC2A0
+
 
 
 
@@ -26,7 +26,7 @@ https://hotlivezz179026907.akainu.xyz/qdwx6QCMpAVYDrrQaooj8g/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/5yG6kawkCqeEaVYK1Jwq_Q/Fv2lucGIbhPi2caWYvF5Lg/1752149851225/live/may21/chunklist.m3u8
+
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-logo="https://iili.io/FJbkjte.png", VOLLEYBALL NATIONS LEAGUE 2
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
@@ -64,7 +64,7 @@ https://hotlivezz179026907.akainu.xyz/Fc-yn_N0UD1CKW8Xr7rkTw/Fv2lucGIbhPi2caWYvF
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",liga bri
 #EXTVLCOPT:http-user-agent=EXOplay533
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/indosiar.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitdBUMjz82wNeGUGgmBJMou2Vjak3T6LAvNHKCCpxhq1Vvj0-FeqJj2GXK2JtrWpn3J4fGCrP9gzlvfYX8OEpJ3eJ27AoRPpC9GD8ZOPmdQE2q_8pDo_RVJMpw9ZXAi86eLvhbndSZAm4LiQqKaqxL-_Pc7XHdKZ7TOiQ7T07EEST5_R8rS9zlSFUlpDX1/s700/PREMIER%20LEAGUE.png" group-title=">>⚽LIVE SPORTS⚽ <<",PREMIER LEAGUE 
