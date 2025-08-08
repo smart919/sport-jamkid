@@ -2,9 +2,7 @@
 
 
 #EXTINF:-1 group-title="🏆BADMINTON🏆" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752203765/fhouuqwgqdbyxiwxtrds.jpg",bwf 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://fhlsport121.fgs37g8.xyz/token-cEZ%2FmrnALfWG7TchlfY6kG3XlMCAh33jPSz8wqgdFmL3t%2BSWHUFdD44oqxdPXEhJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/65p7rr2snUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_611849.m3u8
+
 
 #EXTINF:-1 group-title="🏆BADMINTON🏆" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752203765/fhouuqwgqdbyxiwxtrds.jpg",bwf 2
 
@@ -19,8 +17,10 @@ https://hotlivezz179026907.akainu.xyz/qdwx6QCMpAVYDrrQaooj8g/Fv2lucGIbhPi2caWYvF
 
 
 
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf 5
-
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",liga bri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
+https://fhlsport121.fgs37g8.xyz/token-dk4tyeOcLP%2BG7mEsx%2FY6nz2BlMDWhSzjbnCukvBKEDD04raeHUFdD44qqBRBXk9JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/2n16prornUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_612055.m3u8
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-logo="https://iili.io/FJbkjte.png", VOLLEYBALL NATIONS LEAGUE 1
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
