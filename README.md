@@ -1,7 +1,8 @@
 
 
-
-
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1751880673/dxlnz5jezygbsflcfoas.jpg" group-title=">>⚽LIVE SPORTS⚽ <<",indo vs lebanon
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-
