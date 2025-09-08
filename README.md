@@ -6,9 +6,11 @@ https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYn
 
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1751880673/dxlnz5jezygbsflcfoas.jpg" group-title=">>⚽LIVE SPORTS⚽ <<",live
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/qdwx6QCMpAVYDrrQaooj8g/Fv2lucGIbhPi2caWYvF5Lg/1745999403000/live/may24/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1751880673/dxlnz5jezygbsflcfoas.jpg" group-title=">>⚽LIVE SPORTS⚽ <<",live indo vs lebanon
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19497&type=drm
+https://spacetv.my.id/index.mpd?id=19497&type=dash
 
 
 
