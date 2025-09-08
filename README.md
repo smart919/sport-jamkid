@@ -21,11 +21,13 @@ https://fhlsport121.fgs37g8.xyz/token-J0R6mLXCf%2FGG7GJ5kvY6yGyElMPXgy7jaCP%2BxP
 
 
 
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-logo="https://iili.io/FJbkjte.png", VOLLEYBALL NATIONS LEAGUE 2
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-logo="https://iili.io/FJbkjte.png", indonesia vs lebanon
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/yHQ0ATro833cZcnQluu6Nw/Fv2lucGIbhPi2caWYvF5Lg/1752083315836/live/may20/chunklist.m3u8
+https://live-xlvb.nsnd.live/WaxP_YLrfKeHr0XYuk1utg/e106295966a1a26dfddb5b60b193571b/1757358895/live/_definst_/stream_1_1bda7@coHD/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-logo="https://iili.io/FJbkjte.png", VOLLEYBALL NATIONS LEAGUE 3
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
