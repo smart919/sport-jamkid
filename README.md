@@ -1,30 +1,25 @@
 #EXTINF:-1 group-title="🏆BADMINTON🏆" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752203765/fhouuqwgqdbyxiwxtrds.jpg",BWF china open
-https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/4006063723902061_AiSD.m3u8?txSecret=e86ac364f02e45787535428e74604d24&txTime=68CB3D70
+
  
 #EXTINF:-1 group-title="🏆BADMINTON🏆" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752203765/fhouuqwgqdbyxiwxtrds.jpg",BWF china open 2
-https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court2HB_sjb480.m3u8?title=8198640&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=rDmWIFhBFBoCASRH2LIjluXb&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-Court2HB&ccode=live05030101&expire=21600&psid=FD375A11F5F841269B9A49D4EFA6E419&ups_client_netip=114.4.78.68&ups_ts=1758071988&ups_userid=0&utid=rDmWIFhBFBoCASRH2LIjluXb&vid=8198640_8123737&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court2HB_sjb480&vkey=B21f3d56781040900c4c7b15df97a5b0b&cug=10&t=faed81d8922afdb&rid=20000000A8455A84E0880D9694CB233EB33C9C4200000000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
+https://fhlsport121.fgs37g8.xyz/token-c0R%2ByLCTe%2FaG6W17l%2FY6mT2HlMCDhHrjaiatlaMcETah57OcHUFdD4ItpBVMXkVJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/1os96rqqnUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_618365.m3u8
+
  
 #EXTINF:-1 group-title="🏆BADMINTON🏆" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752203765/fhouuqwgqdbyxiwxtrds.jpg",bwf china open 3
-https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court3HB_sjb480.m3u8?title=8198647&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=rDmWIFhBFBoCASRH2LIjluXb&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-Court3HB&ccode=live05030101&expire=21600&psid=71A7197978571601F40D8A7858A5EC2B&ups_client_netip=114.4.78.68&ups_ts=1758072009&ups_userid=0&utid=rDmWIFhBFBoCASRH2LIjluXb&vid=8198647_8123744&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court3HB_sjb480&vkey=B2d053698a34fffcf1262d5e78f6ad95f&cug=10&t=fa6b1e8f58e6d9e&rid=200000008BADCE3D4E90C224065004713191F0EC00000000
-
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1751880673/dxlnz5jezygbsflcfoas.jpg" group-title=">>⚽LIVE SPORTS⚽ <<",miami vs sea
-https://bf.jalaplay.net/live/322663_zsy.m3u8?txSecret=e9a1b6b0d6b9127c231c3bd0150cfe2e&txTime=68ca0d47
-
-
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1751880673/dxlnz5jezygbsflcfoas.jpg" group-title=">>⚽LIVE SPORTS⚽ <<",live indo vs lebanon
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19497&type=drm
-https://spacetv.my.id/index.mpd?id=19497&type=dash
 
 
 
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",indonesia vs taiwan
+
+
+
+
+
+#EXTINF:-1 group-title="🏆BADMINTON🏆" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752203765/fhouuqwgqdbyxiwxtrds.jpg",BWF china open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://fhlsport121.fgs37g8.xyz/token-J0R6mLXCf%2FGG7GJ5kvY6yGyElMPXgy7jaCP%2BxPdPRDn7s%2BWbHUFdD40sqx1AVUlJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/89667q51nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_616023.m3u8
+#EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
+https://fhlsport121.fgs37g8.xyz/token-JBJyk7eUK6OG7mwvkfY6yjnSlJrVhHjjPyL%2FkPIaFjT1srKWHUFdD4ItpBVKXURJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/50450pp6nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_618350.m3u8
 
 
 
