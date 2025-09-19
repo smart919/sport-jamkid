@@ -1,33 +1,28 @@
 #EXTINF:-1 group-title="🏆BADMINTON🏆" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752203765/fhouuqwgqdbyxiwxtrds.jpg",BWF china open
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
+ https://fhlsport121.fgs37g8.xyz/token-IBcuk7DFL6WGvDMuwfY6nDqHlJqBjH%2Fjb3Cqz6YbQ2bz4biaHUFdD4IuqRdJXUpJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/o48475r4nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_618484.m3u8
  
 #EXTINF:-1 group-title="🏆BADMINTON🏆" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752203765/fhouuqwgqdbyxiwxtrds.jpg",BWF china open 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
-https://fhlsport121.fgs37g8.xyz/token-c0R%2ByLCTe%2FaG6W17l%2FY6mT2HlMCDhHrjaiatlaMcETah57OcHUFdD4ItpBVMXkVJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/1os96rqqnUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_618365.m3u8
+https://fhlsport121.fgs37g8.xyz/token-LE5zmOKdff6GvmwrkfY6mzrWlJrU1CrjanGuwfNHFDag4ObIHUFdD4IuqRdIWUVJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/n5nrs637nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_618477.m3u8
 
  
 #EXTINF:-1 group-title="🏆BADMINTON🏆" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752203765/fhouuqwgqdbyxiwxtrds.jpg",bwf china open 3
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="🏆BADMINTON🏆" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752203765/fhouuqwgqdbyxiwxtrds.jpg",BWF china open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
-https://fhlsport121.fgs37g8.xyz/token-JBJyk7eUK6OG7mwvkfY6yjnSlJrVhHjjPyL%2FkPIaFjT1srKWHUFdD4ItpBVKXURJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/50450pp6nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_618350.m3u8
+https://fhlsport121.fgs37g8.xyz/token-J0AvyrTFe%2F%2BG7GQglvY6zD%2FSlJvXgiHjaiX%2Bw%2FMfFWPz57KWHUFdD4IuqRdKXE5JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/r22no6s7nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_618467.m3u8
 
 
 
-#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-logo="https://iili.io/FJbkjte.png", indonesia vs lebanon
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://live-xlvb.nsnd.live/WaxP_YLrfKeHr0XYuk1utg/e106295966a1a26dfddb5b60b193571b/1757358895/live/_definst_/stream_1_1bda7@coHD/playlist.m3u8
+
+
+
+
+
+
+
 
 
 
