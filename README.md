@@ -1,16 +1,14 @@
-#EXTINF:-1 group-title="🏆BADMINTON🏆" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752203765/fhouuqwgqdbyxiwxtrds.jpg",BWF korea open
-#EXTVLCOPT:http-origin=https://ppdd02.playerktidfintkd.shop
-#EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://twn1-cf.boblcfwudz421.com/auth%3D285726e4c9647ae8fa3064bc43778e3ca27ec814d2ce2b121e0bfa879c5ceb544c4fd44fd918d8d928462b25c9d2355a0b695c4780a80a78cec30b2dcc65bbfbd377184a8dcb3f5bd9b24f2a07ac192072d13b667db2793c897c3f5033569749c4aeadec5e719d4df8b801caa1c376c5f1f8a1264944a3d43be70a7c59f070a5d6d26894b70b3c9e51da87a54690114835f36d9bc7642a17f67c57901a76a0c8%26cid%3DpRiloQDxbou69alhl6y2_250926%26_v%3D2%26_r%3D6BTYty%26_vis%3Df56bb7e6a5a691d5350d2ef0b4480fdbd620db83648a25f6b7f0414169c6055c%26_vvs%3D3809fa0606ce3795ef2a878e9edda7466b3553f48e1f654477be4bbbfe6e3d27/app/c372901.m3u8
- 
-#EXTINF:-1 group-title="🏆BADMINTON🏆" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752203765/fhouuqwgqdbyxiwxtrds.jpg",BWF korea  open 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-
- 
-#EXTINF:-1 group-title="🏆BADMINTON🏆" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752203765/fhouuqwgqdbyxiwxtrds.jpg",bwf korea  open 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTGRP:A1xmedia Live Event | PPV
+#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 1
+https://a1xs.vip/ppv1
+#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 2
+https://a1xs.vip/ppv2
+#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 3
+https://a1xs.vip/ppv3
+#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 4
+https://a1xs.vip/ppv4
+#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 5
+https://a1xs.vip/ppv5
 
 
 
