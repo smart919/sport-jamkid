@@ -1,14 +1,4 @@
-#EXTGRP:A1xmedia Live Event | PPV
-#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 1
-https://a1xs.vip/ppv1
-#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 2
-https://a1xs.vip/ppv2
-#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 3
-https://a1xs.vip/ppv3
-#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 4
-https://a1xs.vip/ppv4
-#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 5
-https://a1xs.vip/ppv5
+
 
 
 
