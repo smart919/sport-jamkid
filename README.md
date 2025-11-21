@@ -55,7 +55,7 @@ https://hotlivezz179026907.akainu.xyz/Fc-yn_N0UD1CKW8Xr7rkTw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=EXOplay533
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://fhlsport121.fgs37g8.xyz/token-cEZ%2FmrnALfWG7TchlfY6kG3XlMCAh33jPSz8wqgdFmL3t%2BSWHUFdD44oqxdPXEhJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/65p7rr2snUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_611849.m3u8
+https://fhlsport301.tbhmp205ycp5.work/token-cEIpyOSRKfSGvDF%2BlfY6yDmAlJrX0S%2FjZXaslfNIQzDz4rSfHUNcFIIsshRKW1IdT2PdxTJjlP51eJlKBQEQ6M1iTUk%3Da/cfall/s2001/v3b/358rr1n7nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_631415.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitdBUMjz82wNeGUGgmBJMou2Vjak3T6LAvNHKCCpxhq1Vvj0-FeqJj2GXK2JtrWpn3J4fGCrP9gzlvfYX8OEpJ3eJ27AoRPpC9GD8ZOPmdQE2q_8pDo_RVJMpw9ZXAi86eLvhbndSZAm4LiQqKaqxL-_Pc7XHdKZ7TOiQ7T07EEST5_R8rS9zlSFUlpDX1/s700/PREMIER%20LEAGUE.png" group-title=">>⚽LIVE SPORTS⚽ <<",PREMIER LEAGUE 
