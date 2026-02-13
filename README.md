@@ -10,12 +10,11 @@ https://fhlsport304.tb3bu207yap7.xyz/token-Jk8oyOSXK%2FKGu2wgkPY6m26AlMOH0yHjana
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 https://fhlsport304.tb3bu207yap7.xyz/token-dkd%2FmraSLPeG7mMswfY6kWLRlMCAgy%2FjOi38wKZHEjH1tbWeHUNcFIIsshRKXVIZRHvBwzNnk%2FZ2fpdNXRMK5Z5iS0u0a/cfall/s2001/v3b/3q77666onUE0pQbiY3AaYKEmqwphZ3umqT0lYz9hMD%3D%3D/super/3x_652017.m3u8
 
-
 #EXTINF:-1 group-title=">>⚽LIVE EVENT⚽ <<" tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20210228/ourmid/pngtree-3d-live-render-isolated-premium-png-image_2988388.jpg",PROLIGA
 #EXTVLCOPT:http-origin=https://vern.cjk71vanywherect4uezbean.shop
 #EXTVLCOPT:http-referrer=https://vern.cjk71vanywherect4uezbean.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://fhlsport304.tb3bu207yap7.xyz/token-IxJ%2Fz7iTffGG7jR5kvY6kW3XlJqEg3jjPSP7xahLEDP277WZHU
+https://fhlsport304.tb3bu207yap7.xyz/token-IxJ%2Fz7iTffGG7jR5kvY6kW3XlJqEg3jjPSP7xahLEDP277WZHUNcFIIsshRKXVIZRHvBwzNnk%2FZ2f5NGUhMK5Z5iS0u0a/cfall/s2001/v3b/p1rnror3nUE0pQbiY3AaYKEmqwphZ3umqT0lYz9hMD%3D%3D/super/3x_651279.m3u8
 
 
 
