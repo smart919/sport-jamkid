@@ -2,14 +2,14 @@
 #EXTVLCOPT:http-origin=https://vern.cjk71vanywherect4uezbean.shop
 #EXTVLCOPT:http-referrer=https://vern.cjk71vanywherect4uezbean.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://fhlsport304.tb3bu207yap7.xyz/token-JE95z7HFevaGuGEvlfY6zz%2BKlJuHjC3jayStw6gaRWKh5LLPHUNcFIIsshRKXVIZRHvBwzNnk%2FZ5eJFIURMK5Z5iS0u0a/cfall/s2001/v3b/304r903rnUE0pQbiY3EmAmphZ3umqT0lYz9hMD%3D%3D/super/3x_651300.m3u8
+
  
  
 #EXTINF:-1 group-title=">>⚽LIVE EVENT⚽ <<" tvg-id="" tvg-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=1200",MALUT VS PERSIJAP
 #EXTVLCOPT:http-referrer=https://bfpc.ygrbf.cc/
 #EXTVLCOPT:http-origin=https://bfpc.ygrbf.cc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-https://bf.jlbflive.cc/live/322720_hd01.m3u8?txSecret=a34a69c56037416aefe3f5069e03335b&txTime=698f0d9d
+
 
 #EXTINF:-1 group-title=">>⚽LIVE EVENT⚽ <<" tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20210228/ourmid/pngtree-3d-live-render-isolated-premium-png-image_2988388.jpg",PROLIGA
 #EXTVLCOPT:http-origin=https://vern.cjk71vanywherect4uezbean.shop
@@ -21,7 +21,7 @@ https://fhlsport304.tb3bu207yap7.xyz/token-IxJ%2Fz7iTffGG7jR5kvY6kW3XlJqEg3jjPSP
 #EXTVLCOPT:http-origin=https://vern.cjk71vanywherect4uezbean.shop
 #EXTVLCOPT:http-referrer=https://vern.cjk71vanywherect4uezbean.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://fhlsport304.tb3bu207yap7.xyz/token-JRV%2Fz7CRLPOG6WF7x%2FY6zG6LlJrVhCvjaXGizvBHGDeg4LPIHUNcFIIsshRKXVIZRHvBwzNnk%2FZ5eJFOUhMK5Z5iS0u0a/cfall/s2001/v3b/9916p740nUE0pQbiY3AaYKEmqwphZ3umqT0lYz9hMD%3D%3D/super/3x_651303.m3u8
+https://fhlsport304.tb3bu207yap7.xyz/token-
 
 
 
