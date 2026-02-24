@@ -27,11 +27,17 @@
 
 
 ===================================================================================================================================
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5-Nl-tL_liGMIeGBA5ob39J_Un8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4906419/f38cb2.jpg" group-title="LIVE TV", 18:00 WIB 22/02/26 Masterchef Indonesia Season 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/Kabel/playlist.m3u/license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN_ADA_TOKEN_WKWKWK_MODAL_LAIN_KALI_YA_MODAL_SNIFFING_TERUS_GAK_MAJU_PENGETAHUANMU&ch=eyJrZXkiOiJYVWczUzVcL2lEaFJ0VEF4R3BieEhGTXR2Wm5Hd0tMU2RMV2ZMMGNBZFZONDZobUF0VlZzNjQ1a0RtaHhLTlptZ3lSN0Z1MlBoMXI0bFlMM0YzOW10MEdDbE5ORkJFTmduODB1ZmNBcGJNNTNEU2I0b2dta1RNRUdFam9KK1JxMHQxdmhSMTN0YVFyMW5TUEJFQVdZUHU2cXFZTXRJU1lrcnZDUHNwUTFNYkJmVzIwOU9OV3RSSEVHdmhDQnBkVmh0OFYycm1QSjQrczRmOWhIeWRIREdqdz09In0=
 
 
 
 
-===============================================================================================================================
+
 #EXTINF:0 tvg-id="RCTI.id" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RCTI.jpg",RCTI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
