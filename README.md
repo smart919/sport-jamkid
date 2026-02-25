@@ -1,9 +1,5 @@
 
-#EXTINF:-1 group-title=">>⚽LIVE EVENT⚽ <<" tvg-id="" tvg-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=1200",PERSEBAYA VS PSM
-#EXTVLCOPT:http-origin= https://www.camel1.live/id/football/persebaya-surabaya-vs-persatuan-sepakbola-makassar/live/8yomo4h1vlzgq0j
-#EXTVLCOPT:http-referrer= https://www.camel1.live/id/football/persebaya-surabaya-vs-persatuan-sepakbola-makassar/live/8yomo4h1vlzgq0j/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/27551_12568346_8yomo4h1vlzgq0j.m3u8?txSecret=39e7cfb41aa204601e6ef97d6686e394&txTime=699F0767&lat=9000
+
 
 
 
