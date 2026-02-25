@@ -1,5 +1,9 @@
 
-
+#EXTINF:-1 group-title=">>⚽LIVE EVENT⚽ <<" tvg-id="" tvg-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=1200",PERSEBAYA VS PSM
+#EXTVLCOPT:http-origin=https://vern.cjk71vanywherect4uezbean.shop
+#EXTVLCOPT:http-referrer=https://vern.cjk71vanywherect4uezbean.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://fhlsport312.tb3bu207yap7.xyz/token-d0AonOaWIfCGu2IvkPY6mzrVlJrT1y%2Fjbib%2FlfMaQzD247jNHUNcFI0vshRMWVIfQWPdxTNik%2F12fpVMBQEQ6M1iTUk%3Da/cfall/s2001/v3b/75po743qnUE0pQbiY3AaYKEmqwphZ3umqT0lYz9hMD%3D%3D/super/3x_656457.m3u8
 
 
 
@@ -227,11 +231,7 @@ http://a9.lion.wine:80/live/Tony9100/QuEK1174/828099.ts
 
 
 =======================================================================================================================
-#EXTINF:-1 group-title=">>⚽LIVE EVENT⚽ <<" tvg-id="" tvg-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=1200",PERSEBAYA VS PSM
-#EXTVLCOPT:http-origin=https://vern.cjk71vanywherect4uezbean.shop
-#EXTVLCOPT:http-referrer=https://vern.cjk71vanywherect4uezbean.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://fhlsport312.tb3bu207yap7.xyz/token-d0AonOaWIfCGu2IvkPY6mzrVlJrT1y%2Fjbib%2FlfMaQzD247jNHUNcFI0vshRMWVIfQWPdxTNik%2F12fpVMBQEQ6M1iTUk%3Da/cfall/s2001/v3b/75po743qnUE0pQbiY3AaYKEmqwphZ3umqT0lYz9hMD%3D%3D/super/3x_656457.m3u8
+
  
  
 #EXTINF:-1 group-title=">>⚽LIVE EVENT⚽ <<" tvg-id="" tvg-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=1200",MALUT VS PERSIJAP
