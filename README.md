@@ -168,30 +168,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/170/438170-SNAPSHOT-l.png" group-title="Channel Vision+", JAKTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000080/1024.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/306/437306-SNAPSHOT-l.png" group-title="Channel Vision+", SOCCER CHANNEL
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000144/1024.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/307/437307-SNAPSHOT-l.png" group-title="Channel Vision+", SPOTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/308/437308-SNAPSHOT-l.png" group-title="Channel Vision+", SPOTV 2
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/309/437309-SNAPSHOT-l.png" group-title="Channel Vision+", SPORTSTARS 
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/310/437310-SNAPSHOT-l.png" group-title="Channel Vision+", SPORTSTARS 2
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dgnN0uR.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
