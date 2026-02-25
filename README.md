@@ -101,108 +101,48 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid
 
 
 ======================================================================================================================================================
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Channel Vision+",SCTV 
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Nasional",SCTV 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Channel Vision+",INDOSIAR 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Nasional",INDOSIAR 
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://www.visionplus.id/images/repository/446/353446-SNAPSHOT-l.png" group-title="Channel Vision+", MNCTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
- 
-
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://www.visionplus.id/images/repository/447/353447-SNAPSHOT-l.png" group-title="Channel Vision+", GTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
- 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://www.visionplus.id/images/repository/445/353445-SNAPSHOT-l.png" group-title="Channel Vision+", RCTI
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
-
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://www.visionplus.id/images/repository/171/438171-SNAPSHOT-l.png" group-title="Channel Vision+",ANTV 
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
-
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://www.visionplus.id/images/repository/176/438176-SNAPSHOT-l.png" group-title="Channel Vision+", Trans 7
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
-
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://www.visionplus.id/images/repository/175/438175-SNAPSHOT-l.png" group-title="Channel Vision+",Trans TV 
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
-
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/174/438174-SNAPSHOT-l.png" group-title="Channel Vision+", MDTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
-
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/851/437851-SNAPSHOT-l.png" group-title="Channel Vision+", Z BIOSKOP
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/382/437382-SNAPSHOT-l.png" group-title="Channel Vision+", BTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/243/437243-SNAPSHOT-l.png" group-title="Channel Vision+", HANACARAKA
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/169/438169-SNAPSHOT-l.png" group-title="Channel Vision+", DAAI TV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/156/438156-SNAPSHOT-l.png" group-title="Channel Vision+", VISION PRIME
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/862/437862-SNAPSHOT-l.png" group-title="Channel Vision+", KIDS TV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" tvg-logo="https://www.visionplus.id/images/repository/180/438180-SNAPSHOT-l.png" group-title="Channel Vision+", JTV 
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/170/438170-SNAPSHOT-l.png" group-title="Channel Vision+", JAKTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000080/1024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Nasional", HBO
+http://iptvtree.net:8080/F33848/cbd9779b/306484
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Nasional", HBO 1080
+http://iptvtree.net:8080/F33848/cbd9779b/197972
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Nasional",HBO Family
+http://iptvtree.net:8080/F33848/cbd9779b/306485
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Nasional",HBO Family 1080
+http://iptvtree.net:8080/F33848/cbd9779b/197055
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Nasional", HBO Hits
+http://iptvtree.net:8080/F33848/cbd9779b/306486
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Nasional", HBO Hits 1080
+http://iptvtree.net:8080/F33848/cbd9779b/196480
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Nasional",HBO Signature
+http://iptvtree.net:8080/F33848/cbd9779b/306483
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Nasional",HBO Signature 1080
+http://iptvtree.net:8080/F33848/cbd9779b/221948
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/dgnN0uR.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HAzOKAo.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="ID: MNC Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="SPORTS CHANNEL",ID: MNC Sports
+http://iptvtree.net:8080/F33848/cbd9779b/157589
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/uCp65Xz.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/SS3.png" group-title=""SPORTS CHANNEL", SPORTSTAR 3
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID: SpoTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="SPORTS CHANNEL", SpoTV
+http://iptvtree.net:8080/F33848/cbd9779b/165105
+#EXTINF:-1 tvg-id="" tvg-name="ID: SpoTV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="SPORTS CHANNEL",SpoTV 2
+http://iptvtree.net:8080/F33848/cbd9779b/298506
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 4
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+#EXTINF: -1 tvg-logo="https://i.imgur.com/dgnN0uR.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1
+http://iptvtree.net:8080/F33848/cbd9779b/295289
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 5
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+#EXTINF: -1 tvg-logo="https://i.imgur.com/uCp65Xz.png" group-title="SPORTS CHANNEL",  BEIN SPORTS 3
+http://iptvtree.net:8080/F33848/cbd9779b/306458
+
 
 
 
@@ -225,7 +165,32 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
 
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/HubP1.png" group-title="SPORTS CHANNEL",Hub Premier 1 FHD
+https://a1xs.vip/1100041
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hubp2.png" group-title="SPORTS CHANNEL",Hub Premier 2 FHD
+https://a1xs.vip/1100042
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hub3.png" group-title="SPORTS CHANNEL",Hub Premier 3 FHD
+https://a1xs.vip/1100043
+#EXTINF:-1 tvg-id="Hub.Premier.4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hub4.png" group-title="SPORTS CHANNEL",Hub Premier 4 FHD
+https://a1xs.vip/1100044
 
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-name="Now Sports PL 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/21/NowS1.png" group-title="SPORTS CHANNEL",Now Sports PL 1 FHD
+https://a1xs.vip/1100001
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-name="Now Sports PL 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/NowPL2.png" group-title="SPORTS CHANNEL",Now Sports PL 2 FHD
+https://a1xs.vip/1100002
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-name="Now Sports PL 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/NowPL2.png" group-title="SPORTS CHANNEL",Now Sports PL 2 FHD
+https://a1xs.vip/1100021
+
+
+
+
+
+
+
+
+
+
+=======================================================================================================================
 #EXTINF:-1 group-title=">>⚽LIVE EVENT⚽ <<" tvg-id="" tvg-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=1200",MALUT VS PERSIJAP
 #EXTVLCOPT:http-origin=https://vern.cjk71vanywherect4uezbean.shop
 #EXTVLCOPT:http-referrer=https://vern.cjk71vanywherect4uezbean.shop/
