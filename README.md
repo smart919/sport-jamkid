@@ -1,39 +1,11 @@
-#EXTINF:-1 group-title=">>⚽LIVE EVENT⚽ <<" tvg-id="" tvg-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=1200",MALUT VS PERSIJAP
-#EXTVLCOPT:http-origin=https://vern.cjk71vanywherect4uezbean.shop
-#EXTVLCOPT:http-referrer=https://vern.cjk71vanywherect4uezbean.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 
- 
- 
-#EXTINF:-1 group-title=">>⚽LIVE EVENT⚽ <<" tvg-id="" tvg-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=1200",MALUT VS PERSIJAP
-#EXTVLCOPT:http-referrer=https://bfpc.ygrbf.cc/
-#EXTVLCOPT:http-origin=https://bfpc.ygrbf.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-
-
-#EXTINF:-1 group-title=">>⚽LIVE EVENT⚽ <<" tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20210228/ourmid/pngtree-3d-live-render-isolated-premium-png-image_2988388.jpg",PROLIGA
-#EXTVLCOPT:http-origin=https://vern.cjk71vanywherect4uezbean.shop
-#EXTVLCOPT:http-referrer=https://vern.cjk71vanywherect4uezbean.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-
-
-#EXTINF:-1 group-title=">>⚽LIVE EVENT⚽ <<" tvg-id="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/X3c70pQkHd_NDSi_1hDnhUL6poU=/1280x720/smart/filters:quality(75):strip_icc()/kly-media-production/medias/5084947/original/041382900_1736372756-logo_proliga.jpg",PROLIGA
-#EXTVLCOPT:http-origin=https://vern.cjk71vanywherect4uezbean.shop
-#EXTVLCOPT:http-referrer=https://vern.cjk71vanywherect4uezbean.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 
 
 
 
 
 ===================================================================================================================================
-#EXTINF:0 tvg-id="RCTI.id" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RCTI.jpg",RCTI HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/Kabel/playlist.m3u/license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN_ADA_TOKEN_WKWKWK_MODAL_LAIN_KALI_YA_MODAL_SNIFFING_TERUS_GAK_MAJU_PENGETAHUANMU&ch=eyJrZXkiOiJYVWczUzVcL2lEaFJ0VEF4R3BieEhGTXR2Wm5Hd0tMU2RMV2ZMMGNBZFZONDZobUF0VlZzNjQ1a0RtaHhLTlptZ3lSN0Z1MlBoMXI0bFlMM0YzOW10MEdDbE5ORkJFTmduODB1ZmNBcGJNNTNEU2I0b2dta1RNRUdFam9KK1JxMHQxdmhSMTN0YVFyMW5TUEJFQVdZUHU2cXFZTXRJU1lrcnZDUHNwUTFNYkJmVzIwOU9OV3RSSEVHdmhDQnBkVmh0OFYycm1QSjQrczRmOWhIeWRIREdqdz09In0=
-https://manamedian.serv00.net/Kabel/playlist.m3u/play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN_ADA_TOKEN_WKWKWK_MODAL_LAIN_KALI_YA_MODAL_SNIFFING_TERUS_GAK_MAJU_PENGETAHUANMU&ch=eyJwYXlsb2FkIjoibTI3bmJsbmtlQVBBQUlXeSttQUV3TWZkalA3eENLRDV0d3NvcWs2XC83YVVGVHg5bnRmQ1JNbHpxWUtOd2RxUlZoQnJKYUdibVZENDE5N1wvWUNwUWV0b1wvSjl3ZFhaclJzR0J6cUoxR3k5VG01blwvKzR1TnFXTUUyYm94N3E0amNlazZHQjRTMVZKRU5XK0VPeEpHXC94cmtTRmVmN1ZaT2R2dFZLRHlKXC9XMXJUbjNVaDZEeU1jaE9yT0NwZkJka2Y4UDVNaUFZdXA1VUZWdmhhRDNBZU9TWDh3eCtVUEJ2Wm1DMFZSQWxWWDF0a2pPUHMyM2V2eTBVUk1aQVp3cGdNQTRmRVl2NGEwd1hha0JZZmRkQk9hVXowWEpoOFpqSW1NXC9PcVVteWJuRmljPSJ9
+
 
 
 
@@ -277,7 +249,29 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
 
 
+#EXTINF:-1 group-title=">>⚽LIVE EVENT⚽ <<" tvg-id="" tvg-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=1200",MALUT VS PERSIJAP
+#EXTVLCOPT:http-origin=https://vern.cjk71vanywherect4uezbean.shop
+#EXTVLCOPT:http-referrer=https://vern.cjk71vanywherect4uezbean.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 
+ 
+ 
+#EXTINF:-1 group-title=">>⚽LIVE EVENT⚽ <<" tvg-id="" tvg-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=1200",MALUT VS PERSIJAP
+#EXTVLCOPT:http-referrer=https://bfpc.ygrbf.cc/
+#EXTVLCOPT:http-origin=https://bfpc.ygrbf.cc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+
+
+#EXTINF:-1 group-title=">>⚽LIVE EVENT⚽ <<" tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20210228/ourmid/pngtree-3d-live-render-isolated-premium-png-image_2988388.jpg",PROLIGA
+#EXTVLCOPT:http-origin=https://vern.cjk71vanywherect4uezbean.shop
+#EXTVLCOPT:http-referrer=https://vern.cjk71vanywherect4uezbean.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+
+
+#EXTINF:-1 group-title=">>⚽LIVE EVENT⚽ <<" tvg-id="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/X3c70pQkHd_NDSi_1hDnhUL6poU=/1280x720/smart/filters:quality(75):strip_icc()/kly-media-production/medias/5084947/original/041382900_1736372756-logo_proliga.jpg",PROLIGA
+#EXTVLCOPT:http-origin=https://vern.cjk71vanywherect4uezbean.shop
+#EXTVLCOPT:http-referrer=https://vern.cjk71vanywherect4uezbean.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 
 
 
