@@ -180,11 +180,47 @@ https://a1xs.vip/1100001
 https://a1xs.vip/1100002
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-name="Now Sports PL 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/NowPL2.png" group-title="SPORTS CHANNEL",Now Sports PL 2 FHD
 https://a1xs.vip/1100021
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitdBUMjz82wNeGUGgmBJMou2Vjak3T6LAvNHKCCpxhq1Vvj0-FeqJj2GXK2JtrWpn3J4fGCrP9gzlvfYX8OEpJ3eJ27AoRPpC9GD8ZOPmdQE2q_8pDo_RVJMpw9ZXAi86eLvhbndSZAm4LiQqKaqxL-_Pc7XHdKZ7TOiQ7T07EEST5_R8rS9zlSFUlpDX1/s700/PREMIER%20LEAGUE.png" group-title="SPORTS CHANNEL",dazn
+http://supersonictv.live:8080/Allen123/Allen123/7627
 
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CHANNEL",8K - BEIN SPORTS 1 SD
+http://a9.lion.wine:80/live/Tony9100/QuEK1174/1178433.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CHANNEL",8K - BEIN SPORTS 2 SD
+http://a9.lion.wine:80/live/Tony9100/QuEK1174/1178432.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CHANNEL",8K - BEIN SPORTS 3 SD
+http://a9.lion.wine:80/live/Tony9100/QuEK1174/1178431.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CHANNEL",8K - BEIN SPORTS 4 SD
+http://a9.lion.wine:80/live/Tony9100/QuEK1174/1178430.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CHANNEL",8K - BEIN SPORTS 5 SD
+http://a9.lion.wine:80/live/Tony9100/QuEK1174/1178429.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CHANNEL",8K - BEIN SPORTS 6 SD
+http://a9.lion.wine:80/live/Tony9100/QuEK1174/1178428.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CHANNEL",8K - BEIN SPORTS 7 SD
+http://a9.lion.wine:80/live/Tony9100/QuEK1174/1178427.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CHANNEL",8K - BEIN SPORTS 8 SD
+http://a9.lion.wine:80/live/Tony9100/QuEK1174/1178426.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CHANNEL",8K - BEIN SPORTS 9 SD
+http://a9.lion.wine:80/live/Tony9100/QuEK1174/1178425.ts
 
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CHANNEL",8K - BEIN SPORTS 1 ENGLISH SD
+http://a9.lion.wine:80/live/Tony9100/QuEK1174/1178421.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CHANNEL",8K - BEIN SPORTS 2 ENGLISH SD
+http://a9.lion.wine:80/live/Tony9100/QuEK1174/1178420.ts
 
-
-
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CHANNEL",[UK] ASTRO SPORTS 1
+http://a9.lion.wine:80/live/Tony9100/QuEK1174/828098.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CHANNEL",[UK] ASTRO SPORTS 2
+http://a9.lion.wine:80/live/Tony9100/QuEK1174/828097.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CHANNEL",[UK] ASTRO SPORTS 3
+http://a9.lion.wine:80/live/Tony9100/QuEK1174/828096.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CHANNEL",[UK] ASTRO SPORTS 4
+http://a9.lion.wine:80/live/Tony9100/QuEK1174/828095.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CHANNEL",[UK] ASTRO SPORTS 5
+http://a9.lion.wine:80/live/Tony9100/QuEK1174/828094.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CHANNEL",[UK] ASTRO SUPERSPORTS 1 4K
+http://a9.lion.wine:80/live/Tony9100/QuEK1174/828100.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CHANNEL",[UK] ASTRO SUPERSPORTS 2 4K
+http://a9.lion.wine:80/live/Tony9100/QuEK1174/828099.ts
 
 
 
