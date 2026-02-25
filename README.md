@@ -3,7 +3,7 @@
 #EXTVLCOPT:http-origin=https://nia.znte6btheedu75kdriver.shop
 #EXTVLCOPT:http-referrer=https://nia.znte6btheedu75kdriver.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://fhlsport312.tb3bu207yap7.xyz/token-IBIvybDBK%2FSG62AhlfY6mz6BlMDW0HjjanarkvRKQTCj77mcHUNcFI0vshRMWVIfQWPdxTNik%2F12dZFHBQEQ6M1iTUk%3Da/cfall/s2001/v3b/75po743qnUE0pQbiY3AaYKEmqwphZ3umqT0lYz9hMD%3D%3D/super/3x_656457.m3u8
+https://fhlsport312.tb3bu207yap7.xyz/token-I0V9nbidKfeG7TEvl%2FY6mW%2BFlMOA0SjjOCKvwvBJEDaj4OPKHUNcFI0vshRMWVIfQWPdxTNik%2F15fplPBQEQ6M1iTUk%3Da/cfall/s2001/v3b/75po743qnUE0pQbiY3AaYKEmqwphZ3umqT0lYz9hMD%3D%3D/super/3x_656457.m3u8
 
 
 
