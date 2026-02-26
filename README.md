@@ -230,11 +230,11 @@ http://a9.lion.wine:80/live/Tony9100/QuEK1174/828099.ts
 
  
  
-#EXTINF:-1 group-title=">>⚽LIVE EVENT⚽ <<" tvg-id="" tvg-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=1200",MALUT VS PERSIJAP
+#EXTINF:-1 group-title=">>⚽LIVE EVENT⚽ <<" tvg-id="" tvg-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=1200",PERSIB VS MADURA
 #EXTVLCOPT:http-referrer=https://bfpc.ygrbf.cc/
 #EXTVLCOPT:http-origin=https://bfpc.ygrbf.cc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-
+https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=bc4a8144d7cffb9cb0eaafe4814074f8&txTime=69a04313
 
 #EXTINF:-1 group-title=">>⚽LIVE EVENT⚽ <<" tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20210228/ourmid/pngtree-3d-live-render-isolated-premium-png-image_2988388.jpg",PROLIGA
 #EXTVLCOPT:http-origin=https://vern.cjk71vanywherect4uezbean.shop
