@@ -1,4 +1,4 @@
- <?php
+
 header('Content-Type: audio/x-mpegurl');
 header('Content-Disposition: inline; filename="playlist.m3u"');
 $xQ9=curl_init();$_b7k='https://api-ls.cdnokvip.com/api/get-livestream-group?isHot=false&isLive=true&isToday=false&isTomorrow=false&limit=8&offset=0&_t='.time().'000';
@@ -27,7 +27,7 @@ $Ej9[]=$_oV4.'/stream/index.m3u8?id='.$Ns5;$Ej9[]='';
 $Ej9[]='#EXTINF:-1 group-title="'.$Rp4.'" tvg-logo="'.$_iN2.'",'.$_vL5;$Ej9[]=$Bt0;
 $Ej9[]=$_oV4.'/stream/index.flv?id='.$Ns5;$Ej9[]='';}}
 echo implode(PHP_EOL,$Ej9);
-?>
+
 
 
 
