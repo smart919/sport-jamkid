@@ -35,11 +35,11 @@ https://xl365.livebytexscorez.com/e1819a47-139b-4c5f-b4a5-a76fcbf16bb2
 http://link.zozotv.xyz:8080/live/adelia/gAqrPERoVv/4633.ts
  
  
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title=">>⚽LIVE EVENT⚽ <<",🔴MADURA  vs BALI
-https://cdn-hls.taoxanh.biz/live/69f99cd6203f5_74012/index.m3u8?expire=1778571094&sign=4b2e39ac0be555d5d1719c517d861bce
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title=">>⚽LIVE EVENT⚽ <<",🔴BORNEO  vs PERSITA
+
  
  
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title=">>⚽LIVE EVENT⚽ <<",arema VS persebaya
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title=">>⚽LIVE EVENT⚽ <<",
 #EXTVLCOPT:http-referrer=https://bfpc.ygrbf.cc/
 #EXTVLCOPT:http-origin=https://bfpc.ygrbf.cc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
