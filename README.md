@@ -36,7 +36,7 @@ http://link.zozotv.xyz:8080/live/adelia/gAqrPERoVv/4633.ts
  
  
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title=">>⚽LIVE EVENT⚽ <<",🔴BORNEO  vs PERSITA
-
+https://cdn-hls.taoxanh.biz/live/69f9d70642283_6308/index.m3u8?expire=1778585990&sign=40099dc96bfff019f6984d86b24a0ad8
  
  
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title=">>⚽LIVE EVENT⚽ <<",PERSITA VS BORNEO
