@@ -39,10 +39,11 @@ http://link.zozotv.xyz:8080/live/adelia/gAqrPERoVv/4633.ts
 
  
  
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title=">>⚽LIVE EVENT⚽ <<",
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title=">>⚽LIVE EVENT⚽ <<",PERSITA VS BORNEO
 #EXTVLCOPT:http-referrer=https://bfpc.ygrbf.cc/
 #EXTVLCOPT:http-origin=https://bfpc.ygrbf.cc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+ https://bf.jabflive.com/live/322720_hd01.m3u8?txSecret=e0b656d6e67767e162b91d0e720de29c&txTime=69f9d5d5
  
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title=">>⚽LIVE EVENT⚽ <<",🔴
 #EXTVLCOPT:http-referrer=https://ppdd13.ifrplaydifub.shop/
