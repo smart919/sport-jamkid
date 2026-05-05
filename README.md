@@ -1,4 +1,37 @@
- 
+ <?php
+header('Content-Type: audio/x-mpegurl');
+header('Content-Disposition: inline; filename="playlist.m3u"');
+$xQ9=curl_init();$_b7k='https://api-ls.cdnokvip.com/api/get-livestream-group?isHot=false&isLive=true&isToday=false&isTomorrow=false&limit=8&offset=0&_t='.time().'000';
+curl_setopt($xQ9,CURLOPT_URL,$_b7k);curl_setopt($xQ9,CURLOPT_RETURNTRANSFER,true);
+curl_setopt($xQ9,CURLOPT_CUSTOMREQUEST,'GET');
+$_hX2=['accept: application/json, text/plain, */*','accept-language: en-US,en;q=0.9','origin: https://acrli.org','priority: u=1, i','referer: https://acrli.org/','sec-ch-ua: "Google Chrome";v="147", "Not.A/Brand";v="8", "Chromium";v="147"','sec-ch-ua-mobile: ?0','sec-ch-ua-platform: "Windows"','sec-fetch-dest: empty','sec-fetch-mode: cors','sec-fetch-site: cross-site','user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36'];
+curl_setopt($xQ9,CURLOPT_HTTPHEADER,$_hX2);$Ld3=curl_exec($xQ9);
+if(curl_errno($xQ9)){die('#EXTM3U'.PHP_EOL.'# cURL Error: '.curl_error($xQ9));}
+curl_close($xQ9);$_r5J=json_decode($Ld3,true);
+$Wm1=(isset($_SERVER['HTTPS'])&&$_SERVER['HTTPS']==='on')?'https':'http';
+$_nK8=$_SERVER['HTTP_HOST'];$Pz6=rtrim(dirname($_SERVER['SCRIPT_NAME']),'/');
+$_oV4=$Wm1.'://'.$_nK8.$Pz6;
+function _fT3($t){if($t<=time())return'Live';$u=$t+25200;return gmdate('H',$u).'.'.gmdate('i',$u).' - '.gmdate('d',$u).'/'.gmdate('m',$u).'/'.gmdate('Y',$u);}
+function _gR1($t){return($t<=time())?'Live Now':'Upcoming';}
+$Ej9=['#EXTM3U'];
+if(isset($_r5J['value']['datas'])&&is_array($_r5J['value']['datas'])){
+foreach($_r5J['value']['datas'] as $_kB2){$Ns5=isset($_kB2['slugUrl'])?$_kB2['slugUrl']:'';if(empty($Ns5))continue;
+$_wD0=isset($_kB2['matchTime'])?(int)$_kB2['matchTime']:0;$Hy7=isset($_kB2['homeName'])?$_kB2['homeName']:'';
+$_qA6=isset($_kB2['awayName'])?$_kB2['awayName']:'';$Uc3=isset($_kB2['leagueName'])?$_kB2['leagueName']:'';
+$_mF1=isset($_kB2['homeLogo'])?$_kB2['homeLogo']:'';$Jx8=isset($_kB2['awayLogo'])?$_kB2['awayLogo']:'';
+$_vL5=_fT3($_wD0).' - '.$Hy7.' vs '.$_qA6.' - '.$Uc3;$Rp4=_gR1($_wD0);
+$_iN2='https://logo-cen.cintaanti03.workers.dev/?team1='.urlencode($_mF1).'&team2='.urlencode($Jx8);
+$Bt0='#EXTVLCOPT:http-referrer=https://acrli.org/'.PHP_EOL.'#EXTVLCOPT:http-origin=https://acrli.org';
+$Ej9[]='#EXTINF:-1 group-title="'.$Rp4.'" tvg-logo="'.$_iN2.'",'.$_vL5;$Ej9[]=$Bt0;
+$Ej9[]=$_oV4.'/stream/index.m3u8?id='.$Ns5;$Ej9[]='';
+$Ej9[]='#EXTINF:-1 group-title="'.$Rp4.'" tvg-logo="'.$_iN2.'",'.$_vL5;$Ej9[]=$Bt0;
+$Ej9[]=$_oV4.'/stream/index.flv?id='.$Ns5;$Ej9[]='';}}
+echo implode(PHP_EOL,$Ej9);
+?>
+
+
+
+
 #EXTINF:-1 group-title=">>⚽LIVE EVENT⚽ <<" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMPYeoIt5BgKhunkrnFTcAdJ10h9FgwiNoVhftdTTXO_keFUe1r3fGrgnMStH4jbrxpVw&usqp=CAU",liga  VOLY korea m
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
